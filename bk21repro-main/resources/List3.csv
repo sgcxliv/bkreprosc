@@ -1,0 +1,217 @@
+Cloze,Sentence,Question,Right,Wrong,Item
+L,Before painting the contractors laid down a tarp on the couch in the den.,,den,living room,1
+L,Jennifer asked a close friend if they could go to the zoo in San Diego.,,San Diego,San Fransisco,2
+L,Behind the storage shed there were some dead branches and a stump beside the fence.,,a stump,a beehive,3
+L,They started filming a documentary about last year's drought in California.,,drought,earthquake,4
+L,She decided not to apply because the college was too small and unimpressive.,,too small,too expensive,5
+L,Her new wallpaper was the same color as her eyes which which were bright blue.,,eyes,boat,6
+L,Laurence woke up early to make his own bread from scratch.,,Laurence,Brenda,7
+L,She saw her coworker at the bar who was very loud and annoying.,,very loud,very efficient,8
+L,She arrived late because she got stuck in the rain and sleet.,,no,yes,9
+L,We heard that the remote island has no known cure for it.,,no,yes,10
+L,After his final chemo treatment he felt very proud of his hard work.,,yes,no,11
+L,We were surprised when Maria stepped on the brake all of a sudden.,,brake,gas,12
+L,Hamilton and his coworkers were chatting together after the long speech about slavery.,,slavery,the economy,13
+L,The software was designed by a brilliant hacker living in San Bernardino.,Who designed the software?,the hacker,the experts,14
+L,The police officer was unsure if he could find the truth about Sarah.,,,,15
+L,My wife said that she didn't like that kind of cake after all.,,,,16
+L,He was late because he had to pick up his lunch and his thermos.,,,,17
+L,Ben was always an excellent employee because he had a good memory since childhood.,,,,18
+L,Bill checked outside but he didn't see the little pigs behind the house.,,,,19
+L,My father scared away the burglars with his axe that looked intimidating.,,,,20
+L,The biologist used the microscope to see inside of the cocoon made of silk.,,,,21
+L,When we were told we had to evacuate we listened to the pilot and copilot.,,,,22
+L,Jan wasn't able to turn on the stove in the kitchen.,,,,23
+L,On the last day he decided to make a salad for everyone.,,,,24
+L,I saw some steam coming out of the new iron in the bedroom.,,,,25
+L,At work the assistant needed to find the cart near the tall shelves.,,,,26
+L,The restaurant was famous for making a delicious gravy that tastes great.,,,,27
+L,After the party the butler cleaned the floor because the boss insisted.,,,,28
+L,The local farmers produced a lot of milk that looks fresh.,,,,29
+L,When he was walking past the kitchen he accidentally dropped a napkin made of linen.,,,,30
+L,After their trip they replaced the battery in the old clock on the wall.,,,,31
+L,My cousin was bored and she had nothing to eat while she waited.,,,,32
+L,That weekend their interior decorator helped them install a bath at home.,,,,33
+L,The crowd watched as the man picked up his racket and swung.,,,,34
+L,Jan was walking and she accidentally dropped her bowl at breakfast time.,,,,35
+L,He walked down to the supermarket to buy milk flour and vanilla which is his favorite.,,,,36
+L,Ben was being so violent that he tried to smash the truck in the garage.,,,,37
+L,Earlier the dock worker saw a beautiful white shark in the ocean.,,,,38
+L,The marathon runners will cross more than six lanes of traffic.,,,,39
+L,Her mother was adamant that she has to wear glasses in class.,,,,40
+L,The detective arrived at the crime scene he looked for a pulse and called 911.,,,,41
+L,The team had to work for hours to fix the tear in the sail apparently.,,,,42
+L,All of the fifth-graders had to get in a circle together.,,,,43
+L,His mom sternly warned him because it was very sharp at then end.,,,,44
+L,When he crashed his car he decided to call a lawyer right away.,,,,45
+L,On their long vacation the family traveled to the south I think.,,,,46
+L,They knew that Harry kept her awake by barking through the night.,,,,47
+L,When her wallet was missing she found it under her pillow in the bedroom.,,,,48
+L,After arriving at the campus he wanted to build some muscle real fast.,,,,49
+L,Samantha and Karen suspected it was under the net in the high school gym.,,,,50
+L,In the door of his refrigerator he found a carrot that looked wilted.,,,,51
+L,Emily had trouble finding the right color of yarn at the market.,,,,52
+L,The girl was extremely excited that she was going to learn ballet from an expert.,,,,53
+L,After the horrible flood they built a new school by the river.,,,,54
+L,The woman at the store was buying the red balloon for the child.,,,,55
+L,At the market he bought a new type of wine from France.,,,,56
+L,In the kitchen she accidentally spilled a bunch of rice on the counter.,,,,57
+L,After a three hour wait the men could see the plane on the runway.,,,,58
+L,The parents were worried about Jason because he was very short for his age.,,,,59
+L,My husband was trying to catch the large spider on our porch.,,,,60
+L,Jonathan was shocked that they decided to use the bomb made of TNT.,,,,61
+L,My uncle is installing solar panels on his farm in Pennsylvania.,,,,62
+L,The hikers didn't buy the tent because it was too heavy and bulky.,,,,63
+L,The lazy teenager didn't want to go to the wedding for some reason.,,,,64
+L,The substitute teacher was pretty impressed by the length of the sentence in the essay.,,,,65
+L,You can damage your vision if you keep staring at the light in the corner.,,,,66
+L,Joan and her decorator decided to add a large tree in the front yard.,,,,67
+L,The two researchers working in the clinical program needed lots of paper for taking notes.,,,,68
+L,He tried to scare off the animal using a rake earlier this afternoon.,,,,69
+L,The pair of thieves recently stole the ancient scroll from Germany.,,,,70
+L,The landlord who lived downstairs bought a new book at the bookstore.,,,,71
+L,My brother remembered to bring his whistle during the soccer game.,,,,72
+H,Then the genie granted his third and final wish from the lamp.,How many wishes did he have?,three,one,73
+H,The kids thought that the scary old woman was probably a witch after all.,What was the woman?,a witch,a mermaid,74
+H,The biologist knew that there were bats living in the cave in the woods.,Where was the cave?,in the woods,beside the cliff,75
+H,The dentist was teaching Emma how to clean her teeth before bedtime.,What did Emma need to work on?,her oral hygiene,her science project,76
+H,He usually eats a whole orange rather than just drinking the juice at breakfast.,When did it happen?,breakfast,dinner,77
+H,He made a dentist appointment to extract his broken tooth that was infected.,How pleasant was it?,not pleasant,very pleasant,78
+H,The senator campaigned in order to win the election that was weeks away.,Was the election over?,no,yes,79
+H,The barber gave Brian a nice looking haircut with clean lines.,Who got a nice haircut?,Brian,Pam,80
+H,Because Peter never told the truth everyone knew he was a liar with real issues.,Who had serious issues?,Peter,Brenda,81
+H,Jack forgot about the cookies baking in the oven at home.,Where did he leave them?,oven,counter,82
+H,In the election people younger than eighteen aren't allowed to vote for some reason.,What can't they do?,vote,drink,83
+H,The pill I just swallowed is stuck in my throat which is uncomfortable.,What's bothering him?,his throat,his tongue,84
+H,To wash your clothes whiter you should add a little bleach to the water.,What do you need to add?,bleach,detergent,85
+H,The climbers and guide were attached to each other by a rope made of nylon.,What was the rope made of?,nylon,hemp,86
+H,Before proposing to his girlfriend he would need a ring with a big diamond.,,,,87
+H,The owner paid the children to mow the lawn in front of his house.,,,,88
+H,The gym won't let me swim in their heated pool after nightfall.,,,,89
+H,During her painful headache she took a Tylenol to get some relief like we suggested.,,,,90
+H,His green pen had just run out of ink in the office.,,,,91
+H,My wife hangs the wet clothes outside to dry behind the barn.,,,,92
+H,Late at the office Victor can always be found sitting at his desk near the window.,,,,93
+H,The boy scouts hurried back to set up camp after the storm lifted.,,,,94
+H,Camels can travel across the hot sands of the desert in Algeria.,,,,95
+H,I asked the maid to change the sheets on the bed in the guestroom.,,,,96
+H,Using ice and snow the traditional Eskimo family built a small igloo on a hill.,,,,97
+H,Because the work was repetitive he thought it was boring and dull.,,,,98
+H,The bride covered her face with a veil made of silk.,,,,99
+H,To display the roses Katie put them in an expensive vase made of porcelain.,,,,100
+H,They got a loan to start their own small business in Wichita.,,,,101
+H,Santa lands on the roof and comes down through the chimney of the house.,,,,102
+H,The cashier asked the customer to swipe his card again.,,,,103
+H,They had to walk single file because the path was too narrow and cramped.,,,,104
+H,The audience shouted 'boo!' until the actor walked off the stage all by himself.,,,,105
+H,The artist dipped her brush into a fresh can of paint for the mural.,,,,106
+H,She smothered the sandwich with peanut butter and lots of jelly made from raspberries.,,,,107
+H,They were cutting the cake using a silver knife that was valuable.,,,,108
+H,Sarah pulled the book off the shelf in the study.,,,,109
+H,Before eating dinner the family held hands to say grace around the table.,,,,110
+H,The old couple sat together without speaking a single word the entire time.,,,,111
+H,Even the professional dry cleaner wasn't able to remove the stain on his jacket.,,,,112
+H,She was the youngest out of all her brothers and sisters at home.,,,,113
+H,Elephants are often hunted for the ivory in their tusks before nightfall.,,,,114
+H,The website login asked for my username and password at some point.,,,,115
+H,To look good at the funeral he needed to buy a suit at Kohl's.,,,,116
+H,She added chives and sour cream to the baked potato that was steaming.,,,,117
+H,Gasoline usually costs about three dollars for a gallon apparently.,,,,118
+H,Melissa asks for decaf when ordering her cup of coffee at the restaurant.,,,,119
+H,The motorcycle jacket was made out of black leather and tough fabric.,,,,120
+H,The birthday card was funny and made me laugh at work.,,,,121
+H,To take her turn at Monopoly Helen rolled both of the dice last night.,,,,122
+H,The woman would need a raincoat to avoid getting wet outside.,,,,123
+H,Maria thought she looked great in her little black dress with sequins.,,,,124
+H,Shearing the sheep produced a large amount of wool that was very warm.,,,,125
+H,Germs are spread when people cough or sneeze around other people.,,,,126
+H,For their anniversary in Seattle they booked a room at a nice hotel in town.,,,,127
+H,The curse could only be broken by her true love's first kiss on the lips.,,,,128
+H,My medical records are accessible to the nurse and the doctor at the clinic.,,,,129
+H,The creature was either an octopus or a giant squid with long tentacles.,,,,130
+H,Jenna loved playing the guitar so she decided to join the band that she admired.,,,,131
+H,To water the huge garden they needed a long hose with an attachment.,,,,132
+H,The soccer team celebrated after their player scored a goal during the game.,,,,133
+H,In the shower he accidentally dropped the bar of soap yesterday.,,,,134
+H,After the meal she ate her sundae with a small metal spoon with a long handle.,,,,135
+H,For Halloween they were carving a large pumpkin at the Farmer's market.,,,,136
+H,Because it was overdue Billy returned the book to the library down the street.,,,,137
+H,Bill raked up all the leaves in front of his condo.,,,,138
+H,The doctor wore the sterile rubber gloves in the hospital.,,,,139
+H,DNA is housed within the nucleus of a cell in a living organism.,,,,140
+H,The water from her umbrella collected in a big puddle on the floor.,,,,141
+H,To keep the dough from sticking she dusted her hands with flour from the store.,,,,142
+H,The hen was going to lay some more eggs after sunrise.,,,,143
+H,The gentleman lit the candle using a single match which was surprising.,,,,144
+M,After returning home from the big city Jim became a farmer in his hometown.,What job did Jim choose?,farmer,surgeon,145
+M,The burglar stole the painting but left the elegant frame made of silver.,What did he leave behind?,frame,painting,146
+M,There were lots of intimidating guards stationed at the border into Texas.,Which border were they guarding?,Mexican,Canadian,147
+M,The bald eagle was trying to attack the hunters using its beak and claws.,What kind of animal was it?,bird,badger,148
+M,At the restaurant he didn't want anything to drink at the bar.,What didn't he want to do?,drink,eat,149
+M,The couple camped near the side of the mountain in the Adirondacks.,Were they in the Adirondacks?,yes,no,150
+M,The kids at summer camp slept in the tent near the woods.,Were they going to sleep in a hotel?,no,yes,151
+M,The team discovered the fertile crops in a valley somewhere in Colorado.,Where was the valley?,Colorado,Montana,152
+M,The farmer gave milk to the brown calf in the barn.,Where was the calf?,the barn,the field,153
+M,While touring the factory Bill sampled several pieces of candy with nuts.,Did he sample something sweet?,yes,no,154
+M,They used naloxone to treat an overdose in the motel room.,Where did it happen?,motel room,storage room,155
+M,Before the cameras started rolling the actress suddenly lost her voice and couldn't speak.,What did she lose?,her voice,her courage,156
+M,He spent lots of money at the annual sale which always attracted customers.,How often did the sale happen?,every year,every week,157
+M,While facing the target he picked up his bow and fired.,Was the athlete a professional runner?,no,yes,158
+M,He had never been bitten by that type of snake in the jungle.,,,,159
+M,During timeout Suzie had to sit on a stool in the corner.,,,,160
+M,They fled in fear when the house started shaking all of a sudden.,,,,161
+M,Even though she's blind she appreciates many types of art from the past.,,,,162
+M,The consultant said that he had run out of ideas to solve the problem.,,,,163
+M,She brought the needle to inject some insulin to control her blood sugar.,,,,164
+M,The nuns were praying beside the wooden cross made of oak.,,,,165
+M,In high school I wrote my boyfriend a message in his yearbook after graduation.,,,,166
+M,There were a lot of old clothes stored in the attic at home.,,,,167
+M,When it's locked in a cage it can no longer fly or move around.,,,,168
+M,My brother always carried a pocket knife and a compass in his bag.,,,,169
+M,My brother got his teeth knocked out while trying to play hockey at school.,,,,170
+M,The weather's been so nice that the plants have started to bloom out back.,,,,171
+M,The factory built expensive machines to filter the air outside.,,,,172
+M,Before leaving the driveway my wife checked the baby's diaper for accidents.,,,,173
+M,The farmers were selling a lot of fruit as well.,,,,174
+M,To repair the cabinet he needed several different types of wood with smooth edges.,,,,175
+M,Perched up on the powerline he saw a small white dove with outstreched wings.,,,,176
+M,Brenda is the editor and she recently decided to switch the font of the magazine.,,,,177
+M,The woman learned some news about the approaching hurricane on the radio that evening.,,,,178
+M,The rescue workers recently found an old hermit living alone on the island in Bermuda.,,,,179
+M,To keep their relationship secret they usually meet at night in the city.,,,,180
+M,As an anniversary gift she received a rare kind of flower according to Alan.,,,,181
+M,The students at Hogwarts had trouble understanding the spell for some reason.,,,,182
+M,It's easy to recognize a bumblebee because of its stripes and markings.,,,,183
+M,My nephew told us that he didn't want to sleep after all the commotion.,,,,184
+M,On their country drive they had trouble seeing the small sign in the distance.,,,,185
+M,Because it was rare he could get some money from selling the coin in Dallas.,,,,186
+M,I couldn't finish writing because there was something wrong with my hand at the office.,,,,187
+M,They were out of lemonade so instead they drank soda all the time.,,,,188
+M,The woman accidentally poked herself with the tip of the needle while quilting.,,,,189
+M,Every Easter they heard the church choir in the evening.,,,,190
+M,She is deathly allergic to those types of bees in the yard.,,,,191
+M,After decades the instructor decided to switch to a new brand of chalk during class.,,,,192
+M,His children thought the games were made by the elves on Christmas Eve.,,,,193
+M,The chemicals floating in the water can damage your skin quite badly.,,,,194
+M,My wife didn't notice that I added some more sugar and cinnamon.,,,,195
+M,When Dennis got closer to the intersection he heard the siren off in the distance.,,,,196
+M,In the warrior's tomb the team discovered a large wooden shield covered in spikes.,,,,197
+M,On the last day there was a huge party that made the neighbors angry.,,,,198
+M,Susan was angry at Eric and took him to court on Tuesday.,,,,199
+M,At the breakfast buffet the conference was serving coffee and tea on the back porch.,,,,200
+M,At the premier she wore a black dress and some red lipstick that looked nice.,,,,201
+M,Because of fruit flies he threw away the banana at breakfast.,,,,202
+M,Up in the poplar tree the stray cat found a nest made of twigs.,,,,203
+M,Our son was innocent and shouldn't have been arrested for murder and arson.,,,,204
+M,On the king's nightstand the men saw a golden crown with bright jewels.,,,,205
+M,George chose not to join the army after school.,,,,206
+M,Of all the animals the flamingo is known for its long neck and distinctive colors.,,,,207
+M,As she rushed out she forgot to take her keys with her.,,,,208
+M,The two Russians played another round of chess at Victor's house.,,,,209
+M,They were finally able to solve the mouse problem with poison last night.,,,,210
+M,The miners were able to extract lots of iron and gold from India.,,,,211
+M,She spat out the fruit because it was too sour and tangy.,,,,212
+M,The cafeteria in the prison was covered in blood from the killings.,,,,213
+M,The group of people sitting in the concert hall was very quiet and peaceful.,,,,214
+M,We definitely saw the fish swallow the hook with the sharp point.,,,,215
+M,The sticker was shaped like a star up in the sky. ,,,,216
