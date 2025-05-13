@@ -45,11 +45,11 @@ def make_job(name, experiment, control, is_gam=True, results_path='results/bk21'
             for pred in preds:
                 if pred == 'critical_word_pos':
                     if experiment == 'naming':
-                        k = ', k=8'  # 8 unique values
-                    else:  # experiment == 'spr'
-                        k = ', k=9'  # 9 unique values
+                        k = ', k=8'  
+                    else:  
+                        k = ', k=9'  
                 elif pred == 'wlen':
-                        k = ', k=6'  # 6 unique values
+                        k = ', k=6'  
                 else:
                     k = ''
                 term = ' + s(%s, bs="cs"%s)' % (pred, k)
@@ -57,11 +57,6 @@ def make_job(name, experiment, control, is_gam=True, results_path='results/bk21'
             random = []
             for ranef in ranefs:
                 random.append('s(%s, bs="re")' % ranef)
-                ## Random slopes cause convergence erros, removed
-                #if ranef.lower() != 'item':
-                #    for pred in preds:
-                #        if is_predictability(pred):
-                #            random.append('s(%s, %s, bs="re")' % (pred, ranef))
             random = ' + '.join(random)
             form += ' + ' + random
         else:
@@ -71,11 +66,6 @@ def make_job(name, experiment, control, is_gam=True, results_path='results/bk21'
             random = []
             for ranef in ranefs:
                 ranef_terms = ['1']
-                ## Random slopes cause convergence erros, removed
-                #if ranef != 'itemnum':
-                #    for pred in preds:
-                #        if is_predictability(pred):
-                #            ranef_terms.append(pred)
                 random.append('(%s | %s)' % (' + '.join(ranef_terms), ranef))
             random = ' + '.join(random)
             form += ' + ' + random
