@@ -144,7 +144,6 @@ plot(m_llama2surp, select=1, xlab='LLaMA-2 Surprisal', ylab='RT')
 
 # Function to extract smooth data from GAM model
 extract_gam_data <- function(model, term_index = 1, n_points = 100) {
-  # Extract variable name from the model formula
   formula_terms <- attr(terms(model$formula), "term.labels")
   smooth_terms <- formula_terms[grep("^s\\(", formula_terms)]
   
@@ -153,37 +152,30 @@ extract_gam_data <- function(model, term_index = 1, n_points = 100) {
     return(NULL)
   }
   
-  # Extract variable name from s(variable_name)
   term_string <- smooth_terms[term_index]
   pred_var <- gsub("s\\(([^,)]+).*", "\\1", term_string)
   
-  # Check if pred_var exists in model$model
   if (!pred_var %in% names(model$model)) {
     warning(paste("Predictor variable", pred_var, "not found in model data"))
     return(NULL)
   }
   
-  # Get the range of the predictor
   pred_range <- range(model$model[[pred_var]], na.rm = TRUE)
   
-  # Check if range is valid
   if (!is.finite(pred_range[1]) || !is.finite(pred_range[2])) {
     warning(paste("Cannot determine valid range for", pred_var))
     return(NULL)
   }
   
-  # Create prediction data
   new_data <- data.frame(x = seq(from = pred_range[1], to = pred_range[2], length.out = n_points))
   names(new_data) <- pred_var
   
-  # Add random effects variables with their reference levels
   for (re_var in c("SUB", "ITEM")) {
     if (re_var %in% names(model$model)) {
       new_data[[re_var]] = levels(model$model[[re_var]])[1]
     }
   }
   
-  # Predict values and get confidence intervals
   predictions <- try(predict(model, newdata = new_data, type = "terms", se.fit = TRUE), silent = TRUE)
   
   if (inherits(predictions, "try-error")) {
@@ -191,7 +183,6 @@ extract_gam_data <- function(model, term_index = 1, n_points = 100) {
     return(NULL)
   }
   
-  # Find the column index for our predictor variable
   col_names <- colnames(predictions$fit)
   pred_col_index <- grep(paste0("^s\\(", pred_var), col_names)
   
@@ -200,7 +191,6 @@ extract_gam_data <- function(model, term_index = 1, n_points = 100) {
     return(NULL)
   }
   
-  # Determine if this is a probability or surprisal measure
   measure_type <- if(grepl("prob", pred_var, ignore.case = TRUE)) {
     "Probability"
   } else if(grepl("surp|cloze$", pred_var, ignore.case = TRUE)) {
@@ -209,18 +199,17 @@ extract_gam_data <- function(model, term_index = 1, n_points = 100) {
     "Surprisal"
   }
   
-  # Create result dataframe
+  # Create result df
   result <- data.frame(
     x = new_data[[pred_var]],
     y = predictions$fit[, pred_col_index] + coef(model)[1], # Add intercept
     se = predictions$se.fit[, pred_col_index],
     variable = pred_var,
     measure = measure_type,
-    model = NA, # Will be filled in later
-    model_name = NA # Will be filled in later
+    model = NA, 
+    model_name = NA 
   )
   
-  # Add confidence intervals
   result$lower <- result$y - 1.96 * result$se
   result$upper <- result$y + 1.96 * result$se
   
@@ -229,7 +218,6 @@ extract_gam_data <- function(model, term_index = 1, n_points = 100) {
 
 # Function to extract raw data for a model
 extract_raw_data <- function(model, term_index = 1) {
-  # Extract variable name from the model formula
   formula_terms <- attr(terms(model$formula), "term.labels")
   smooth_terms <- formula_terms[grep("^s\\(", formula_terms)]
   
@@ -238,20 +226,17 @@ extract_raw_data <- function(model, term_index = 1) {
     return(NULL)
   }
   
-  # Extract variable name from s(variable_name)
   term_string <- smooth_terms[term_index]
   pred_var <- gsub("s\\(([^,)]+).*", "\\1", term_string)
   
-  # Check if pred_var exists in model$model
   if (!pred_var %in% names(model$model)) {
     warning(paste("Predictor variable", pred_var, "not found in model data"))
     return(NULL)
   }
   
-  # Get the response variable
   response_var <- names(model$model)[1]
   
-  # Determine if this is a probability or surprisal measure
+  # Determine prob or surp
   measure_type <- if(grepl("prob", pred_var, ignore.case = TRUE)) {
     "Probability"
   } else if(grepl("surp|cloze$", pred_var, ignore.case = TRUE)) {
@@ -260,25 +245,22 @@ extract_raw_data <- function(model, term_index = 1) {
     "Other"
   }
   
-  # Extract data
   raw_data <- data.frame(
     x = model$model[[pred_var]],
     y = model$model[[response_var]],
     variable = pred_var,
     measure = measure_type,
-    model = NA, # Will be filled in later
-    model_name = NA # Will be filled in later
+    model = NA, 
+    model_name = NA
   )
   
   return(raw_data)
 }
 
 # Extract data from all models
-# Create an empty list to store the results
 smooth_data_list <- list()
 raw_data_list <- list()
 
-# Extract data from each model
 model_list <- list(
   m_clozeprob = m_clozeprob,
   m_clozesurp = m_clozesurp,
@@ -298,7 +280,7 @@ model_list <- list(
   m_gpt2xlsurp = m_gpt2xlsurp
 )
 
-# Create a named list that maps model names to more readable names
+# Create a name map
 model_display_names <- list(
   m_clozeprob = "Human Cloze Probability",
   m_clozesurp = "Human Cloze Surprisal",
@@ -317,28 +299,24 @@ model_display_names <- list(
   m_gpt2xlprob = "GPT-2XL Probability",
   m_gpt2xlsurp = "GPT-2XL Surprisal"
 )
-# Extract data from each model with better error handling
+
+# get model data
 for (model_name in names(model_list)) {
   cat("\nProcessing model:", model_name, "\n")
   
-  # Get the current model
   current_model <- model_list[[model_name]]
   
-  # Check if model exists
   if (is.null(current_model)) {
     warning(paste("Model", model_name, "not found in model list"))
     next
   }
   
-  # Determine the model type (e.g., GPT-2, LLaMA-2)
   model_type <- gsub("^m_([^_]+).*$", "\\1", model_name)
   
-  # Try to extract smooth data
   tryCatch({
     smooth_data <- extract_gam_data(current_model)
     
     if (!is.null(smooth_data)) {
-      # Set the model name using the display names
       smooth_data$model <- model_type
       smooth_data$model_name <- model_display_names[[model_name]]
       smooth_data_list[[model_name]] <- smooth_data
@@ -348,12 +326,10 @@ for (model_name in names(model_list)) {
     warning(paste("Error extracting smooth data for", model_name, ":", conditionMessage(e)))
   })
   
-  # Try to extract raw data
   tryCatch({
     raw_data <- extract_raw_data(current_model)
     
     if (!is.null(raw_data)) {
-      # Set the model name using the display names
       raw_data$model <- model_type
       raw_data$model_name <- model_display_names[[model_name]]
       raw_data_list[[model_name]] <- raw_data
@@ -364,7 +340,7 @@ for (model_name in names(model_list)) {
   })
 }
 
-# Combine all data frames in the list
+# Combine all dfs in list
 smooth_data_combined <- bind_rows(smooth_data_list)
 raw_data_combined <- bind_rows(raw_data_list)
 
@@ -372,5 +348,4 @@ raw_data_combined <- bind_rows(raw_data_list)
 write_csv(smooth_data_combined, "bkgam_smooth_data.csv")
 write_csv(raw_data_combined, "bkgam_raw_data.csv")
 
-# Print message
 cat("\nData extraction complete. Data saved to 'bkgam_smooth_data.csv' and 'bkgam_raw_data.csv'.\n")
