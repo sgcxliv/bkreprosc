@@ -1,6 +1,5 @@
 import os, stat
 
-
 def get_R_code(model_type):
     if model_type.lower() == 'gam':
        model_string = R_GAM_model
@@ -11,7 +10,6 @@ def get_R_code(model_type):
        predict_string = R_LME_predict
        plot_string = R_LME_plot
     return R_preamble + R_data + model_string + plot_string + predict_string + R_evaluation
-
 
 def check_config(name):
     if name.startswith('nosurp'):
