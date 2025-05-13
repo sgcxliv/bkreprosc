@@ -1,7 +1,6 @@
 import pandas as pd
 import os
 
-# Load dataset
 df_path = "bk21_spr.csv"
 if not os.path.exists(df_path):
     print(f"ERROR: File '{df_path}' not found")
