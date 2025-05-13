@@ -3,10 +3,8 @@ library(tidyverse)
 library(lme4)
 setwd("~/Desktop")
 
-# Load data
 df_items <- read_csv("new_items_with_surprisal.csv")
 
-# Preprocess data
 preprocess_data <- function(df) {
   df <- df %>%
     mutate(
@@ -23,7 +21,6 @@ df_items <- preprocess_data(df_items)
 
 # Create 5 folds
 create_folds <- function(data) {
-  # list to store fold indices
   folds <- list()
   
   if (!is.numeric(data$ITEM)) {
@@ -46,75 +43,48 @@ run_cv <- function(data, formula, folds) {
   n_folds <- length(folds)
   n_obs <- nrow(data)
   
-  # Initialize vector for log likelihoods
   log_likelihoods <- numeric(n_obs)
-  log_likelihoods[] <- NA  # Set all to NA initially
+  log_likelihoods[] <- NA  
   
-  # Run cross-validation
   for (i in 1:n_folds) {
     cat("Processing fold", i, "of", n_folds, "\n")
     
-    # Get test indices for this fold
     test_indices <- folds[[i]]
-    
-    # Get train indices (all except test)
     train_indices <- setdiff(1:n_obs, test_indices)
-    
-    # Split data
     train_data <- data[train_indices, ]
     test_data <- data[test_indices, ]
     
     tryCatch({
-      # Fit model on training data
       model <- lmer(formula, data = train_data)
       test_data$predicted <- predict(model, newdata = test_data, re.form = NA)
-      
-      # Get residual standard deviation
       sigma <- sigma(model)
-      
-      # Calculate log likelihood
       observed <- test_data$SUM_3RT_trimmed
       ll <- dnorm(observed, mean = test_data$predicted, sd = sigma, log = TRUE)
-      
-      # Store results
       log_likelihoods[test_indices] <- ll
-      
     }, error = function(e) {
       cat("Error in fold", i, ":", conditionMessage(e), "\n")
-      # Leave NAs for this fold
     })
   }
-  
-  # Return only non-NA values
   return(log_likelihoods[!is.na(log_likelihoods)])
 }
 
 # Permutation Test to Compare
 permutation_test <- function(ll1, ll2, n_permutations = 10000, directional = TRUE) {
-  # Calculate observed difference in mean log likelihood
   observed_diff <- mean(ll1) - mean(ll2)
-  
-  # Initialize vector for permuted differences
   perm_diffs <- numeric(n_permutations)
   
-  # Run permutation test
   for (p in 1:n_permutations) {
     if (p %% 1000 == 0) {
       cat("Permutation", p, "of", n_permutations, "\n")
     }
     
-    # For each observation, randomly decide whether to swap log likelihoods
     swap <- rbinom(length(ll1), 1, 0.5) == 1
     
-    # Create permuted log likelihood vectors
     perm_ll1 <- ll1
     perm_ll2 <- ll2
-    
-    # Swap values where indicated
     perm_ll1[swap] <- ll2[swap]
     perm_ll2[swap] <- ll1[swap]
     
-    # Calculate difference in means for this permutation
     perm_diffs[p] <- mean(perm_ll1) - mean(perm_ll2)
   }
   
@@ -138,10 +108,8 @@ permutation_test <- function(ll1, ll2, n_permutations = 10000, directional = TRU
 
 # Run Comparison
 run_table_s1_comparisons <- function(data, n_permutations = 10000) {
-  # Create folds for cross-validation
   folds <- create_folds(data)
   
-    # Define variable mappings for predictors
     predictors <- list(
     "Cloze" = list(
         "PROB" = "clozeprob",
@@ -190,7 +158,7 @@ run_table_s1_comparisons <- function(data, n_permutations = 10000) {
   # 1. Overall comparisons (vs. null model)
   cat("\n--- Running Overall Comparisons (vs. null model) ---\n")
   
-  # Null model log likelihoods (only random effects)
+  # Null model log likelihoods (only re)
   null_formula <- "SUM_3RT_trimmed ~ 1 + (1|SUB) + (1|ITEM)"
   cat("Running null model\n")
   null_ll <- run_cv(data, null_formula, folds)
@@ -208,23 +176,18 @@ run_table_s1_comparisons <- function(data, n_permutations = 10000) {
     for (type in c("PROB", "SURP1")) {
       pred_col <- predictors[[pred_name]][[type]]
       
-      # Skip if column doesn't exist
       if (!(pred_col %in% colnames(data))) {
         cat("Skipping", pred_name, type, "as column", pred_col, "not found\n")
         next
       }
       
-      # Model formula
       pred_formula <- paste0("SUM_3RT_trimmed ~ ", pred_col, " + (1|SUB) + (1|ITEM)")
       
-      # Run cross-validation
       cat("Running", pred_name, type, "vs. null\n")
       pred_ll <- run_cv(data, pred_formula, folds)
       
-      # Run permutation test
       test_result <- permutation_test(pred_ll, null_ll, n_permutations)
       
-      # Add to results
       overall_results <- rbind(
         overall_results,
         data.frame(
@@ -256,25 +219,20 @@ run_table_s1_comparisons <- function(data, n_permutations = 10000) {
     prob_col <- predictors[[pred_name]][["PROB"]]
     surp_col <- predictors[[pred_name]][["SURP1"]]
     
-    # Skip if either column doesn't exist
     if (!(prob_col %in% colnames(data)) || !(surp_col %in% colnames(data))) {
       cat("Skipping", pred_name, "PROB vs. SURP1 as columns not found\n")
       next
     }
     
-    # Model formulas
     prob_formula <- paste0("SUM_3RT_trimmed ~ ", prob_col, " + (1|SUB) + (1|ITEM)")
     surp_formula <- paste0("SUM_3RT_trimmed ~ ", surp_col, " + (1|SUB) + (1|ITEM)")
     
-    # Run cross-validation
     cat("Running", pred_name, "SURP1 vs. PROB\n")
     prob_ll <- run_cv(data, prob_formula, folds)
     surp_ll <- run_cv(data, surp_formula, folds)
     
-    # Run permutation test
     test_result <- permutation_test(surp_ll, prob_ll, n_permutations)
     
-    # Add to results
     prob_vs_surp_results <- rbind(
       prob_vs_surp_results,
       data.frame(
@@ -292,25 +250,20 @@ run_table_s1_comparisons <- function(data, n_permutations = 10000) {
     prob_col <- predictors[[pred_name]][["PROB"]]
     surp_col <- predictors[[pred_name]][["SURP1"]]
     
-    # Skip if either column doesn't exist
     if (!(prob_col %in% colnames(data)) || !(surp_col %in% colnames(data))) {
       cat("Skipping", pred_name, "PROB+SURP1 vs. SURP1 as columns not found\n")
       next
     }
     
-    # Model formulas
     combined_formula <- paste0("SUM_3RT_trimmed ~ ", prob_col, " + ", surp_col, " + (1|SUB) + (1|ITEM)")
     surp_formula <- paste0("SUM_3RT_trimmed ~ ", surp_col, " + (1|SUB) + (1|ITEM)")
     
-    # Run cross-validation
     cat("Running", pred_name, "PROB+SURP1 vs. SURP1\n")
     combined_ll <- run_cv(data, combined_formula, folds)
     surp_ll <- run_cv(data, surp_formula, folds)
     
-    # Run permutation test
     test_result <- permutation_test(combined_ll, surp_ll, n_permutations)
     
-    # Add to results
     prob_vs_surp_results <- rbind(
       prob_vs_surp_results,
       data.frame(
@@ -328,25 +281,20 @@ run_table_s1_comparisons <- function(data, n_permutations = 10000) {
     prob_col <- predictors[[pred_name]][["PROB"]]
     surp_col <- predictors[[pred_name]][["SURP1"]]
     
-    # Skip if either column doesn't exist
     if (!(prob_col %in% colnames(data)) || !(surp_col %in% colnames(data))) {
       cat("Skipping", pred_name, "PROB+SURP1 vs. PROB as columns not found\n")
       next
     }
     
-    # Model formulas
     combined_formula <- paste0("SUM_3RT_trimmed ~ ", prob_col, " + ", surp_col, " + (1|SUB) + (1|ITEM)")
     prob_formula <- paste0("SUM_3RT_trimmed ~ ", prob_col, " + (1|SUB) + (1|ITEM)")
     
-    # Run cross-validation
     cat("Running", pred_name, "PROB+SURP1 vs. PROB\n")
     combined_ll <- run_cv(data, combined_formula, folds)
     prob_ll <- run_cv(data, prob_formula, folds)
     
-    # Run permutation test
     test_result <- permutation_test(combined_ll, prob_ll, n_permutations)
     
-    # Add to results
     prob_vs_surp_results <- rbind(
       prob_vs_surp_results,
       data.frame(
@@ -378,25 +326,20 @@ run_table_s1_comparisons <- function(data, n_permutations = 10000) {
   for (pred_name in setdiff(names(predictors), "Cloze")) {
     surp_col <- predictors[[pred_name]][["SURP1"]]
     
-    # Skip if column doesn't exist
     if (!(surp_col %in% colnames(data))) {
       cat("Skipping", pred_name, "SURP1 vs. Cloze_PROB as column not found\n")
       next
     }
     
-    # Model formulas
     cloze_formula <- paste0("SUM_3RT_trimmed ~ ", cloze_prob_col, " + (1|SUB) + (1|ITEM)")
     pred_formula <- paste0("SUM_3RT_trimmed ~ ", surp_col, " + (1|SUB) + (1|ITEM)")
     
-    # Run cross-validation
     cat("Running", pred_name, "SURP1 vs. Cloze_PROB\n")
     cloze_ll <- run_cv(data, cloze_formula, folds)
     pred_ll <- run_cv(data, pred_formula, folds)
     
-    # Run permutation test
     test_result <- permutation_test(pred_ll, cloze_ll, n_permutations)
     
-    # Add to results
     cloze_vs_other_results <- rbind(
       cloze_vs_other_results,
       data.frame(
@@ -413,25 +356,20 @@ run_table_s1_comparisons <- function(data, n_permutations = 10000) {
   for (pred_name in setdiff(names(predictors), "Cloze")) {
     surp_col <- predictors[[pred_name]][["SURP1"]]
     
-    # Skip if column doesn't exist
     if (!(surp_col %in% colnames(data))) {
       cat("Skipping Cloze_PROB +", pred_name, "SURP1 vs. Cloze_PROB as column not found\n")
       next
     }
     
-    # Model formulas
     combined_formula <- paste0("SUM_3RT_trimmed ~ ", cloze_prob_col, " + ", surp_col, " + (1|SUB) + (1|ITEM)")
     cloze_formula <- paste0("SUM_3RT_trimmed ~ ", cloze_prob_col, " + (1|SUB) + (1|ITEM)")
     
-    # Run cross-validation
     cat("Running Cloze_PROB +", pred_name, "SURP1 vs. Cloze_PROB\n")
     combined_ll <- run_cv(data, combined_formula, folds)
     cloze_ll <- run_cv(data, cloze_formula, folds)
     
-    # Run permutation test
     test_result <- permutation_test(combined_ll, cloze_ll, n_permutations)
     
-    # Add to results
     cloze_vs_other_results <- rbind(
       cloze_vs_other_results,
       data.frame(
@@ -445,80 +383,55 @@ run_table_s1_comparisons <- function(data, n_permutations = 10000) {
   }
   
   all_results$cloze_vs_other <- cloze_vs_other_results
-  
-  # Apply FDR correction within each comparison family
-  for (family in names(all_results)) {
-    all_results[[family]]$p_adjusted <- p.adjust(all_results[[family]]$p_value, method = "fdr")
-  }
-  
-  return(all_results)
-}
 
-# Create formatted table similar to Table S1
+# Create table 
 create_table_s1 <- function(results) {
-  # Format each results section
   format_section <- function(section, title) {
-    # Make sure the column names are the same for later rbind
     section$category <- title
     section$significance <- ""
     section$significance[section$p_adjusted < 0.05] <- "*"
     section$significance[section$p_adjusted < 0.01] <- "**"
     section$significance[section$p_adjusted < 0.001] <- "***"
     
-    # Format values
     section$delta_ll <- round(section$delta_ll, 0)
     section$p_value <- round(section$p_value, 4)
     section$p_adjusted <- round(section$p_adjusted, 4)
     
-    # For directional tests, add dash where alternative doesn't improve over null
     section$p_value_display <- section$p_value
     section$p_value_display[section$delta_ll <= 0] <- "—"
     
     return(section)
   }
   
-  # Format each section
   overall <- format_section(results$overall, "Overall")
   prob_vs_surp <- format_section(results$prob_vs_surp, "Probability vs. Surprisal")
   cloze_vs_other <- format_section(results$cloze_vs_other, "Cloze vs. Other")
   
-  # Combine all sections
   all_formatted <- rbind(overall, prob_vs_surp, cloze_vs_other)
   
-  # Reorder columns to match Table S1
   table_s1 <- all_formatted %>%
     select(category, comparison, delta_ll, p_value_display, significance)
   
   return(table_s1)
 }
 
-# Run the analysis with a smaller number of permutations for testing
-# Increase to 10000 for final results
 n_permutations <- 1000
 
-# Run all comparisons
 results <- run_table_s1_comparisons(df_items, n_permutations = n_permutations)
 
-# Create table similar to Table S1
 table_s1 <- create_table_s1(results)
 
-# Print and save results
 print(table_s1)
 write.csv(table_s1, "table_s1_replication.csv", row.names = FALSE)
 
-# Save detailed results
 save(results, file = "lme_cv_permutation_results.RData")
 
-# Save table as PNG using ggplot2
 library(ggplot2)
 library(gridExtra)
 
-# Convert table to ggplot
 make_table_plot <- function(table_data) {
-  # Create a ggplot-friendly table
   plot_table <- tableGrob(table_data, rows = NULL, theme = ttheme_minimal())
   
-  # Create the plot
   p <- ggplot() +
     annotation_custom(plot_table) +
     theme_void() +
@@ -528,6 +441,5 @@ make_table_plot <- function(table_data) {
   return(p)
 }
 
-# Create and save the table as PNG
 table_plot <- make_table_plot(table_s1)
 ggsave("table_s1_replication.png", table_plot, width = 10, height = 8, dpi = 300)
