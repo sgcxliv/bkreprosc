@@ -1,3 +1,4 @@
+#whenever i do something to a csv i take the first 50 lines to make sure i didn't horrendously mess it up
 import pandas as pd
 
 def extract_first_n_rows(input_file, output_file, n=50):
@@ -10,10 +11,8 @@ def extract_first_n_rows(input_file, output_file, n=50):
     n (int): Number of rows to extract (default: 500)
     """
     try:
-        # Read the first n rows from the CSV file
         df = pd.read_csv(input_file, nrows=n)
         
-        # Save to a new file
         df.to_csv(output_file, index=False)
         
         print(f"Successfully extracted first {n} rows from {input_file} and saved to {output_file}")
@@ -22,7 +21,7 @@ def extract_first_n_rows(input_file, output_file, n=50):
 
 if __name__ == "__main__":
     input_file = "bk21_spr_with_folds.csv"
-    output_file = "fifty.csv"  # Changed to .csv extension
+    output_file = "fifty.csv"  
     
     extract_first_n_rows(input_file, output_file, 50)
 
