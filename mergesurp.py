@@ -1,4 +1,5 @@
 # to merge cleaned cloze data (no mismatched items) with spr data
+# any time i need to merge anything i just use a versin of this 
 import os
 import pandas as pd
 
