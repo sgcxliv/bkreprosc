@@ -1,0 +1,649 @@
+words,itemnum,condition,word01,word02,word03,word04,word05,word06,word07,word08,word09,word10,word11,word12,word13,word14,word15,word16,group,critical_word,critical_word_pos
+"In polluted cities, you can barely breathe the air outside the building.",0,HC,In,polluted,"cities,",you,can,barely,breathe,the,air,outside,the,building.,,,,,176,air,9
+The factory built expensive machines to filter the air outside the building.,1,MC,The,factory,built,expensive,machines,to,filter,the,air,outside,the,building.,,,,,176,air,9
+They suspected there was something wrong with the air outside the building.,2,LC,They,suspected,there,was,something,wrong,with,the,air,outside,the,building.,,,,,176,air,9
+The soldier decided to quit the army after school.,3,HC,The,soldier,decided,to,quit,the,army,after,school.,,,,,,,,210,army,7
+George chose not to join the army after school.,4,MC,George,chose,not,to,join,the,army,after,school.,,,,,,,,210,army,7
+The students were learning about the army after school.,5,LC,The,students,were,learning,about,the,army,after,school.,,,,,,,,210,army,7
+"My sister enjoys poetry, painting, and other forms of art from the past.",6,HC,My,sister,enjoys,"poetry,","painting,",and,other,forms,of,art,from,the,past.,,,,166,art,10
+"Even though she's blind, she appreciates many types of art from the past.",7,MC,Even,though,she's,"blind,",she,appreciates,many,types,of,art,from,the,past.,,,,166,art,10
+They hired the consultant because of her knowledge of art from the past.,8,LC,They,hired,the,consultant,because,of,her,knowledge,of,art,from,the,past.,,,,166,art,10
+They stored all of the Halloween decorations up in the attic at home.,9,HC,They,stored,all,of,the,Halloween,decorations,up,in,the,attic,at,home.,,,,171,attic,11
+There were a lot of old clothes stored in the attic at home.,10,MC,There,were,a,lot,of,old,clothes,stored,in,the,attic,at,home.,,,,171,attic,11
+The accountant put all of the old documents in the attic at home.,11,LC,The,accountant,put,all,of,the,old,documents,in,the,attic,at,home.,,,,171,attic,11
+The lumberjack chopped down the tree with his axe that looked intimidating.,12,HC,The,lumberjack,chopped,down,the,tree,with,his,axe,that,looked,intimidating.,,,,,24,axe,9
+The man walked into the forest carrying his axe that looked intimidating.,13,MC,The,man,walked,into,the,forest,carrying,his,axe,that,looked,intimidating.,,,,,24,axe,9
+My father scared away the burglars with his axe that looked intimidating.,14,LC,My,father,scared,away,the,burglars,with,his,axe,that,looked,intimidating.,,,,,24,axe,9
+The girl bought a pink tutu because she wanted to learn ballet from an expert.,15,HC,The,girl,bought,a,pink,tutu,because,she,wanted,to,learn,ballet,from,an,expert.,,57,ballet,12
+"The girl had never danced before, but she wanted to learn ballet from an expert.",16,MC,The,girl,had,never,danced,"before,",but,she,wanted,to,learn,ballet,from,an,expert.,,57,ballet,12
+The girl was extremely excited that she was going to learn ballet from an expert.,17,LC,The,girl,was,extremely,excited,that,she,was,going,to,learn,ballet,from,an,expert.,,57,ballet,12
+The man used the helium to inflate the red balloon for the child.,18,HC,The,man,used,the,helium,to,inflate,the,red,balloon,for,the,child.,,,,59,balloon,10
+"It was her birthday, so he bought the red balloon for the child.",19,MC,It,was,her,"birthday,",so,he,bought,the,red,balloon,for,the,child.,,,,59,balloon,10
+The woman at the store was buying the red balloon for the child.,20,LC,The,woman,at,the,store,was,buying,the,red,balloon,for,the,child.,,,,59,balloon,10
+The hungry monkey was trying to peel the banana at breakfast.,21,HC,The,hungry,monkey,was,trying,to,peel,the,banana,at,breakfast.,,,,,,206,banana,9
+"Because of fruit flies, he threw away the banana at breakfast.",22,MC,Because,of,fruit,"flies,",he,threw,away,the,banana,at,breakfast.,,,,,,206,banana,9
+My picky younger brother refused to eat the banana at breakfast.,23,LC,My,picky,younger,brother,refused,to,eat,the,banana,at,breakfast.,,,,,,206,banana,9
+"Jenna loved playing the guitar, so she decided to join the band that she admired.",24,HC,Jenna,loved,playing,the,"guitar,",so,she,decided,to,join,the,band,that,she,admired.,,135,band,12
+On her eighteenth birthday her parents got her tickets see the band that she admired.,25,MC,On,her,eighteenth,birthday,her,parents,got,her,tickets,see,the,band,that,she,admired.,,135,band,12
+"After several rounds of auditions, she never heard back from the band that she admired.",26,LC,After,several,rounds,of,"auditions,",she,never,heard,back,from,the,band,that,she,admired.,,135,band,12
+The neighborhood dog always kept her awake by barking through the night.,27,HC,The,neighborhood,dog,always,kept,her,awake,by,barking,through,the,night.,,,,,51,barking,9
+Our pets sometimes ask us for treats by barking through the night.,28,MC,Our,pets,sometimes,ask,us,for,treats,by,barking,through,the,night.,,,,,51,barking,9
+They knew that Harry kept her awake by barking through the night.,29,LC,They,knew,that,Harry,kept,her,awake,by,barking,through,the,night.,,,,,51,barking,9
+"Instead of a shower, she decided to take a bath at home.",30,HC,Instead,of,a,"shower,",she,decided,to,take,a,bath,at,home.,,,,,37,bath,10
+"To relax after work, Bill decided to take a bath at home.",31,MC,To,relax,after,"work,",Bill,decided,to,take,a,bath,at,home.,,,,,37,bath,10
+"That weekend, their interior decorator helped them install a bath at home.",32,LC,That,"weekend,",their,interior,decorator,helped,them,install,a,bath,at,home.,,,,,37,bath,10
+My son saw the bird pecking at the soil using its beak and claws.,33,HC,My,son,saw,the,bird,pecking,at,the,soil,using,its,beak,and,claws.,,,152,beak,12
+The bald eagle was trying to attack the hunters using its beak and claws.,34,MC,The,bald,eagle,was,trying,to,attack,the,hunters,using,its,beak,and,claws.,,,152,beak,12
+The animal in the zoo enclosure was trying to clean its beak and claws.,35,LC,The,animal,in,the,zoo,enclosure,was,trying,to,clean,its,beak,and,claws.,,,152,beak,12
+I asked the maid to change the sheets on the bed in the guestroom.,36,HC,I,asked,the,maid,to,change,the,sheets,on,the,bed,in,the,guestroom.,,,100,bed,11
+The chief of police found the suicide note on the bed in the guestroom.,37,MC,The,chief,of,police,found,the,suicide,note,on,the,bed,in,the,guestroom.,,,100,bed,11
+There was a large pile of dirty towels on the bed in the guestroom.,38,LC,There,was,a,large,pile,of,dirty,towels,on,the,bed,in,the,guestroom.,,,100,bed,11
+The honey was produced by a hive of bees in the yard.,39,HC,The,honey,was,produced,by,a,hive,of,bees,in,the,yard.,,,,,195,bees,9
+She is deathly allergic to those types of bees in the yard.,40,MC,She,is,deathly,allergic,to,those,types,of,bees,in,the,yard.,,,,,195,bees,9
+The people outside were avoiding the group of bees in the yard.,41,LC,The,people,outside,were,avoiding,the,group,of,bees,in,the,yard.,,,,,195,bees,9
+"To wash your clothes whiter, you should add a little bleach to the water.",42,HC,To,wash,your,clothes,"whiter,",you,should,add,a,little,bleach,to,the,water.,,,89,bleach,11
+"To kill all the bacteria, you should add a little bleach to the water.",43,MC,To,kill,all,the,"bacteria,",you,should,add,a,little,bleach,to,the,water.,,,89,bleach,11
+"To prepare the next sample, you should add a little bleach to the water.",44,LC,To,prepare,the,next,"sample,",you,should,add,a,little,bleach,to,the,water.,,,89,bleach,11
+The murderer's knife and clothes were covered in blood from the killings.,45,HC,The,murderer's,knife,and,clothes,were,covered,in,blood,from,the,killings.,,,,,217,blood,9
+The cafeteria in the prison was covered in blood from the killings.,46,MC,The,cafeteria,in,the,prison,was,covered,in,blood,from,the,killings.,,,,,217,blood,9
+The woman's counter and refrigerator were covered in blood from the killings.,47,LC,The,woman's,counter,and,refrigerator,were,covered,in,blood,from,the,killings.,,,,,217,blood,9
+My favorite part of Spring is when the flowers begin to bloom out back.,48,HC,My,favorite,part,of,Spring,is,when,the,flowers,begin,to,bloom,out,back.,,,175,bloom,12
+The weather's been so nice that the plants have started to bloom out back.,49,MC,The,weather's,been,so,nice,that,the,plants,have,started,to,bloom,out,back.,,,175,bloom,12
+We started watering the yard because the plants had begun to bloom out back.,50,LC,We,started,watering,the,yard,because,the,plants,had,begun,to,bloom,out,back.,,,175,bloom,12
+"Following his orders, the terrorist threatened to drop the bomb made of TNT.",51,HC,Following,his,"orders,",the,terrorist,threatened,to,drop,the,bomb,made,of,TNT.,,,,65,bomb,10
+"To destroy the building, they decided to use the bomb made of TNT.",52,MC,To,destroy,the,"building,",they,decided,to,use,the,bomb,made,of,TNT.,,,,65,bomb,10
+Jonathan was shocked that they decided to use the bomb made of TNT.,53,LC,Jonathan,was,shocked,that,they,decided,to,use,the,bomb,made,of,TNT.,,,,65,bomb,10
+The author signed a copy of her new book at the bookstore.,54,HC,The,author,signed,a,copy,of,her,new,book,at,the,bookstore.,,,,,75,book,9
+The unsuccessful student went to buy a new book at the bookstore.,55,MC,The,unsuccessful,student,went,to,buy,a,new,book,at,the,bookstore.,,,,,75,book,9
+The landlord who lived downstairs bought a new book at the bookstore.,56,LC,The,landlord,who,lived,downstairs,bought,a,new,book,at,the,bookstore.,,,,,75,book,9
+The immigrant left Mexico and tried to cross the border into Texas.,57,HC,The,immigrant,left,Mexico,and,tried,to,cross,the,border,into,Texas.,,,,,151,border,10
+There were lots of intimidating guards stationed at the border into Texas.,58,MC,There,were,lots,of,intimidating,guards,stationed,at,the,border,into,Texas.,,,,,151,border,10
+The kids were scared about trying to cross the border into Texas.,59,LC,The,kids,were,scared,about,trying,to,cross,the,border,into,Texas.,,,,,151,border,10
+"Because the work was repetitive, he thought it was boring and dull.",60,HC,Because,the,work,was,"repetitive,",he,thought,it,was,boring,and,dull.,,,,,102,boring,10
+"He visited the museum, and he thought it was boring and dull.",61,MC,He,visited,the,"museum,",and,he,thought,it,was,boring,and,dull.,,,,,102,boring,10
+"He visited the catacombs, and he thought it was boring and dull.",62,LC,He,visited,the,"catacombs,",and,he,thought,it,was,boring,and,dull.,,,,,102,boring,10
+The archer pulled back the string of his bow and fired.,63,HC,The,archer,pulled,back,the,string,of,his,bow,and,fired.,,,,,,162,bow,9
+"While facing the target, he picked up his bow and fired.",64,MC,While,facing,the,"target,",he,picked,up,his,bow,and,fired.,,,,,,162,bow,9
+"On television, the Olympic athlete picked up his bow and fired.",65,LC,On,"television,",the,Olympic,athlete,picked,up,his,bow,and,fired.,,,,,,162,bow,9
+Jan poured the milk and cereal into her bowl at breakfast time.,66,HC,Jan,poured,the,milk,and,cereal,into,her,bowl,at,breakfast,time.,,,,,39,bowl,9
+The waiter accidentally dropped her spoon and her bowl at breakfast time.,67,MC,The,waiter,accidentally,dropped,her,spoon,and,her,bowl,at,breakfast,time.,,,,,39,bowl,9
+Jan was walking and she accidentally dropped her bowl at breakfast time.,68,LC,Jan,was,walking,and,she,accidentally,dropped,her,bowl,at,breakfast,time.,,,,,39,bowl,9
+"Instead of the accelerator, Maria stepped on the brake all of a sudden.",69,HC,Instead,of,the,"accelerator,",Maria,stepped,on,the,brake,all,of,a,sudden.,,,,16,brake,9
+My passengers jumped when I stepped on the brake all of a sudden.,70,MC,My,passengers,jumped,when,I,stepped,on,the,brake,all,of,a,sudden.,,,,16,brake,9
+We were surprised when Maria stepped on the brake all of a sudden.,71,LC,We,were,surprised,when,Maria,stepped,on,the,brake,all,of,a,sudden.,,,,16,brake,9
+Laurence got some yeast to bake his own bread from scratch.,72,HC,Laurence,got,some,yeast,to,bake,his,own,bread,from,scratch.,,,,,,11,bread,9
+Laurence needed some advice before baking his own bread from scratch.,73,MC,Laurence,needed,some,advice,before,baking,his,own,bread,from,scratch.,,,,,,11,bread,9
+Laurence woke up early to make his own bread from scratch.,74,LC,Laurence,woke,up,early,to,make,his,own,bread,from,scratch.,,,,,,11,bread,9
+They got a loan to start their own small business in Wichita.,75,HC,They,got,a,loan,to,start,their,own,small,business,in,Wichita.,,,,,105,business,10
+My roommate was hoping to build his own small business in Wichita.,76,MC,My,roommate,was,hoping,to,build,his,own,small,business,in,Wichita.,,,,,105,business,10
+They needed some land to build their own small business in Wichita.,77,LC,They,needed,some,land,to,build,their,own,small,business,in,Wichita.,,,,,105,business,10
+The birthday boy didn't want frosting on his slice of cake after all.,78,HC,The,birthday,boy,didn't,want,frosting,on,his,slice,of,cake,after,all.,,,,20,cake,11
+The hungry student decided to buy a small piece of cake after all.,79,MC,The,hungry,student,decided,to,buy,a,small,piece,of,cake,after,all.,,,,20,cake,11
+My wife said that she didn't like that kind of cake after all.,80,LC,My,wife,said,that,she,didn't,like,that,kind,of,cake,after,all.,,,,20,cake,11
+The cow gave birth to the brown calf in the barn.,81,HC,The,cow,gave,birth,to,the,brown,calf,in,the,barn.,,,,,,157,calf,8
+The farmer gave milk to the brown calf in the barn.,82,MC,The,farmer,gave,milk,to,the,brown,calf,in,the,barn.,,,,,,157,calf,8
+Bill went to check on the brown calf in the barn.,83,LC,Bill,went,to,check,on,the,brown,calf,in,the,barn.,,,,,,157,calf,8
+The boy scouts hurried back to set up camp after the storm lifted.,84,HC,The,boy,scouts,hurried,back,to,set,up,camp,after,the,storm,lifted.,,,,98,camp,9
+The cheerful woman hurried over to set up camp after the storm lifted.,85,MC,The,cheerful,woman,hurried,over,to,set,up,camp,after,the,storm,lifted.,,,,98,camp,9
+We watched my nephew try to set up camp after the storm lifted.,86,LC,We,watched,my,nephew,try,to,set,up,camp,after,the,storm,lifted.,,,,98,camp,9
+"On Halloween, the costumed children grabbed several pieces of candy with nuts.",87,HC,On,"Halloween,",the,costumed,children,grabbed,several,pieces,of,candy,with,nuts.,,,,,158,candy,10
+"While touring the factory, Bill sampled several pieces of candy with nuts.",88,MC,While,touring,the,"factory,",Bill,sampled,several,pieces,of,candy,with,nuts.,,,,,158,candy,10
+The food scientists were developing a new type of candy with nuts.,89,LC,The,food,scientists,were,developing,a,new,type,of,candy,with,nuts.,,,,,158,candy,10
+The cashier asked the customer to swipe his card once again.,90,HC,The,cashier,asked,the,customer,to,swipe,his,card,once,again.,,,,,,107,card,9
+Johnathan told the banker that he'd lost his card once again.,91,MC,Johnathan,told,the,banker,that,he'd,lost,his,card,once,again.,,,,,,107,card,9
+"At security, the guards needed to inspect his card once again.",92,LC,At,"security,",the,guards,needed,to,inspect,his,card,once,again.,,,,,,107,card,9
+"In the cartoon, Bugs Bunny was munching on a carrot that looked wilted.",93,HC,In,the,"cartoon,",Bugs,Bunny,was,munching,on,a,carrot,that,looked,wilted.,,,,55,carrot,10
+The cook was chopping up the parsley and a carrot that looked wilted.,94,MC,The,cook,was,chopping,up,the,parsley,and,a,carrot,that,looked,wilted.,,,,55,carrot,10
+In the door of his refrigerator he found a carrot that looked wilted.,95,LC,In,the,door,of,his,refrigerator,he,found,a,carrot,that,looked,wilted.,,,,55,carrot,10
+"At Costco, the toddler wanted to push the cart near the tall shelves.",96,HC,At,"Costco,",the,toddler,wanted,to,push,the,cart,near,the,tall,shelves.,,,,30,cart,9
+The grocery store employee had to retrieve the cart near the tall shelves.,97,MC,The,grocery,store,employee,had,to,retrieve,the,cart,near,the,tall,shelves.,,,,30,cart,9
+"At work, the assistant needed to find the cart near the tall shelves.",98,LC,At,"work,",the,assistant,needed,to,find,the,cart,near,the,tall,shelves.,,,,30,cart,9
+The biologist knew that there were bats living in the cave in the woods.,99,HC,The,biologist,knew,that,there,were,bats,living,in,the,cave,in,the,woods.,,,79,cave,11
+The biologist knew that there were bears living in the cave in the woods.,100,MC,The,biologist,knew,that,there,were,bears,living,in,the,cave,in,the,woods.,,,79,cave,11
+The police knew that there were people living in the cave in the woods.,101,LC,The,police,knew,that,there,were,people,living,in,the,cave,in,the,woods.,,,79,cave,11
+DNA is housed within the nucleus of a cell in a living organism.,102,HC,DNA,is,housed,within,the,nucleus,of,a,cell,in,a,living,organism.,,,,144,cell,9
+The scientists were extracting the DNA from a cell in a living organism.,103,MC,The,scientists,were,extracting,the,DNA,from,a,cell,in,a,living,organism.,,,,144,cell,9
+"In his textbook, there's a drawing of a cell in a living organism.",104,LC,In,his,"textbook,",there's,a,drawing,of,a,cell,in,a,living,organism.,,,,144,cell,9
+The teacher walked up to the board and grabbed a piece of chalk at home.,105,HC,The,teacher,walked,up,to,the,board,and,grabbed,a,piece,of,chalk,at,home.,,196,chalk,13
+"After decades, the instructor decided to switch to a new brand of chalk at home.",106,MC,After,"decades,",the,instructor,decided,to,switch,to,a,new,brand,of,chalk,at,home.,,196,chalk,13
+"While searching around in the garage, the man found a piece of chalk at home.",107,LC,While,searching,around,in,the,"garage,",the,man,found,a,piece,of,chalk,at,home.,,196,chalk,13
+The checkmate abruptly ended their game of chess at Victor's house.,108,HC,The,checkmate,abruptly,ended,their,game,of,chess,at,Victor's,house.,,,,,,213,chess,8
+The two Russians played another round of chess at Victor's house.,109,MC,The,two,Russians,played,another,round,of,chess,at,Victor's,house.,,,,,,213,chess,8
+They were learning another important rule of chess at Victor's house.,110,LC,They,were,learning,another,important,rule,of,chess,at,Victor's,house.,,,,,,213,chess,8
+Santa lands on the roof and comes down through the chimney of the house.,111,HC,Santa,lands,on,the,roof,and,comes,down,through,the,chimney,of,the,house.,,,106,chimney,11
+The firefighter noticed there was smoke coming out of the chimney of the house.,112,MC,The,firefighter,noticed,there,was,smoke,coming,out,of,the,chimney,of,the,house.,,,106,chimney,11
+"Every Spring, my family cleans out the basement and the chimney of the house.",113,LC,Every,"Spring,",my,family,cleans,out,the,basement,and,the,chimney,of,the,house.,,,106,chimney,11
+The soprano auditioned for the church choir in the evening.,114,HC,The,soprano,auditioned,for,the,church,choir,in,the,evening.,,,,,,,194,choir,7
+"Every Easter, they heard the church choir in the evening.",115,MC,Every,"Easter,",they,heard,the,church,choir,in,the,evening.,,,,,,,194,choir,7
+Elizabeth didn't like to attend church choir in the evening.,116,LC,Elizabeth,didn't,like,to,attend,church,choir,in,the,evening.,,,,,,,194,choir,7
+"At storytime, the preschoolers have to sit in a circle on the rug.",117,HC,At,"storytime,",the,preschoolers,have,to,sit,in,a,circle,on,the,rug.,,,,47,circle,10
+The girl decided to arrange her dolls in a circle on the rug.,118,MC,The,girl,decided,to,arrange,her,dolls,in,a,circle,on,the,rug.,,,,47,circle,10
+All of the fifth-graders had to get in a circle on the rug.,119,LC,All,of,the,fifth-graders,had,to,get,in,a,circle,on,the,rug.,,,,47,circle,10
+"Above the doorway, he heard the ticking of the old clock on the wall.",120,HC,Above,the,"doorway,",he,heard,the,ticking,of,the,old,clock,on,the,wall.,,,35,clock,11
+"In the den, they replaced the battery in the old clock on the wall.",121,MC,In,the,"den,",they,replaced,the,battery,in,the,old,clock,on,the,wall.,,,35,clock,11
+"After their trip, they replaced the battery in the old clock on the wall.",122,LC,After,their,"trip,",they,replaced,the,battery,in,the,old,clock,on,the,wall.,,,35,clock,11
+"In a few weeks, the butterfly will emerge from the cocoon made of silk.",123,HC,In,a,few,"weeks,",the,butterfly,will,emerge,from,the,cocoon,made,of,silk.,,,25,cocoon,11
+The caterpillar was trying its best to escape from the cocoon made of silk.,124,MC,The,caterpillar,was,trying,its,best,to,escape,from,the,cocoon,made,of,silk.,,,25,cocoon,11
+The biologist used the microscope to see inside of the cocoon made of silk.,125,LC,The,biologist,used,the,microscope,to,see,inside,of,the,cocoon,made,of,silk.,,,25,cocoon,11
+Melissa asks for decaf when ordering her cup of coffee at the restaurant.,126,HC,Melissa,asks,for,decaf,when,ordering,her,cup,of,coffee,at,the,restaurant.,,,,123,coffee,10
+The customer left without finishing his last sip of coffee at the restaurant.,127,MC,The,customer,left,without,finishing,his,last,sip,of,coffee,at,the,restaurant.,,,,123,coffee,10
+Melissa has difficulty when she's picking a type of coffee at the restaurant.,128,LC,Melissa,has,difficulty,when,she's,picking,a,type,of,coffee,at,the,restaurant.,,,,123,coffee,10
+We had to guess heads or tails when the referee flipped the coin in Dallas.,129,HC,We,had,to,guess,heads,or,tails,when,the,referee,flipped,the,coin,in,Dallas.,,190,coin,13
+"Because it was rare, he could get some money from selling the coin in Dallas.",130,MC,Because,it,was,"rare,",he,could,get,some,money,from,selling,the,coin,in,Dallas.,,190,coin,13
+"He was carrying so much stuff in his hands, he dropped the coin in Dallas.",131,LC,He,was,carrying,so,much,stuff,in,his,"hands,",he,dropped,the,coin,in,Dallas.,,190,coin,13
+The boy scout navigated using a map and a compass in his bag.,132,HC,The,boy,scout,navigated,using,a,map,and,a,compass,in,his,bag.,,,,173,compass,10
+My brother always carried a pocket knife and a compass in his bag.,133,MC,My,brother,always,carried,a,pocket,knife,and,a,compass,in,his,bag.,,,,173,compass,10
+The boyscout always carried a first-aid kit and a compass in his bag.,134,LC,The,boyscout,always,carried,a,first-aid,kit,and,a,compass,in,his,bag.,,,,173,compass,10
+Lauren turned on the TV and flopped down on the couch in the den.,135,HC,Lauren,turned,on,the,TV,and,flopped,down,on,the,couch,in,the,den.,,,5,couch,11
+They were worried that the cat would tear up the couch in the den.,136,MC,They,were,worried,that,the,cat,would,tear,up,the,couch,in,the,den.,,,5,couch,11
+"Before painting, the contractors laid down a tarp on the couch in the den.",137,LC,Before,"painting,",the,contractors,laid,down,a,tarp,on,the,couch,in,the,den.,,,5,couch,11
+Eric sued the taxi driver and took him to court On Tuesday.,138,HC,Eric,sued,the,taxi,driver,and,took,him,to,court,On,Tuesday.,,,,,203,court,10
+Susan was angry at Eric and took him to court On Tuesday.,139,MC,Susan,was,angry,at,Eric,and,took,him,to,court,On,Tuesday.,,,,,203,court,10
+Eric picked up his friend and brought him to court On Tuesday.,140,LC,Eric,picked,up,his,friend,and,brought,him,to,court,On,Tuesday.,,,,,203,court,10
+Jesus was crucified on a large wooden cross made of oak.,141,HC,Jesus,was,crucified,on,a,large,wooden,cross,made,of,oak.,,,,,,169,cross,8
+The nuns were praying beside the wooden cross made of oak.,142,MC,The,nuns,were,praying,beside,the,wooden,cross,made,of,oak.,,,,,,169,cross,8
+"In the gallery, there was a wooden cross made of oak.",143,LC,In,the,"gallery,",there,was,a,wooden,cross,made,of,oak.,,,,,,169,cross,8
+"On the queen's head, the priest placed a golden crown with bright jewels.",144,HC,On,the,queen's,"head,",the,priest,placed,a,golden,crown,with,bright,jewels.,,,,209,crown,10
+"On the king's nightstand, the men saw a golden crown with bright jewels.",145,MC,On,the,king's,"nightstand,",the,men,saw,a,golden,crown,with,bright,jewels.,,,,209,crown,10
+The merchant paid for the goods with a golden crown with bright jewels.,146,LC,The,merchant,paid,for,the,goods,with,a,golden,crown,with,bright,jewels.,,,,209,crown,10
+The disease is fatal as there is no known cure for it.,147,HC,The,disease,is,fatal,as,there,is,no,known,cure,for,it.,,,,,14,cure,10
+This danger is real and there is no known cure for it.,148,MC,This,danger,is,real,and,there,is,no,known,cure,for,it.,,,,,14,cure,10
+We heard that the remote island has no known cure for it.,149,LC,We,heard,that,the,remote,island,has,no,known,cure,for,it.,,,,,14,cure,10
+Camels can travel across the hot sands of the desert in Algeria.,150,HC,Camels,can,travel,across,the,hot,sands,of,the,desert,in,Algeria.,,,,,99,desert,10
+"Somehow, farmers were able to grow crops in the desert in Algeria.",151,MC,"Somehow,",farmers,were,able,to,grow,crops,in,the,desert,in,Algeria.,,,,,99,desert,10
+The young students learned some interesting facts about the desert in Algeria.,152,LC,The,young,students,learned,some,interesting,facts,about,the,desert,in,Algeria.,,,,,99,desert,10
+"Late at the office, Victor can always be found sitting at his desk near the window.",153,HC,Late,at,the,"office,",Victor,can,always,be,found,sitting,at,his,desk,near,the,window.,97,desk,13
+My friend always kept a large bag of chocolate bars in his desk near the window.,154,MC,My,friend,always,kept,a,large,bag,of,chocolate,bars,in,his,desk,near,the,window.,97,desk,13
+"When I came home yesterday, I saw that Victor was fixing his desk near the window.",155,LC,When,I,came,home,"yesterday,",I,saw,that,Victor,was,fixing,his,desk,near,the,window.,97,desk,13
+"To prevent a mess, the caregiver checked the baby's diaper for accidents.",156,HC,To,prevent,a,"mess,",the,caregiver,checked,the,baby's,diaper,for,accidents.,,,,,177,diaper,10
+"Before leaving the driveway, my wife checked the baby's diaper for accidents.",157,MC,Before,leaving,the,"driveway,",my,wife,checked,the,baby's,diaper,for,accidents.,,,,,177,diaper,10
+"Before leaving the maternity ward, someone checked the baby's diaper for accidents.",158,LC,Before,leaving,the,maternity,"ward,",someone,checked,the,baby's,diaper,for,accidents.,,,,,177,diaper,10
+"To take her turn at Monopoly, Helen rolled both of the dice last night.",159,HC,To,take,her,turn,at,"Monopoly,",Helen,rolled,both,of,the,dice,last,night.,,,126,dice,12
+"They weren't able to play Monopoly, because they had lost the dice last night.",160,MC,They,weren't,able,to,play,"Monopoly,",because,they,had,lost,the,dice,last,night.,,,126,dice,12
+"While cleaning out the cluttered closet, Helen found both of the dice last night.",161,LC,While,cleaning,out,the,cluttered,"closet,",Helen,found,both,of,the,dice,last,night.,,,126,dice,12
+My medical records are accessible to the nurse and the doctor at the clinic.,162,HC,My,medical,records,are,accessible,to,the,nurse,and,the,doctor,at,the,clinic.,,,133,doctor,11
+The young woman was inspired by the scientist and the doctor at the clinic.,163,MC,The,young,woman,was,inspired,by,the,scientist,and,the,doctor,at,the,clinic.,,,133,doctor,11
+She had to be interviewed by the lawyer and the doctor at the clinic.,164,LC,She,had,to,be,interviewed,by,the,lawyer,and,the,doctor,at,the,clinic.,,,133,doctor,11
+The bird typically used to symbolize peace is a white dove with outstretched wings.,165,HC,The,bird,typically,used,to,symbolize,peace,is,a,white,dove,with,outstretched,wings.,,,180,dove,11
+"Perched up on the powerline he saw a small, white dove with outstretched wings.",166,MC,Perched,up,on,the,powerline,he,saw,a,"small,",white,dove,with,outstretched,wings.,,,180,dove,11
+In the corner of his eye he saw a white dove with outstretched wings.,167,LC,In,the,corner,of,his,eye,he,saw,a,white,dove,with,outstretched,wings.,,,180,dove,11
+Maria thought she looked great in her little black dress with sequins.,168,HC,Maria,thought,she,looked,great,in,her,little,black,dress,with,sequins.,,,,,128,dress,10
+"In her bedroom, she was looking for her black dress with sequins.",169,MC,In,her,"bedroom,",she,was,looking,for,her,black,dress,with,sequins.,,,,,128,dress,10
+"When she moved away, my girlfriend sold the black dress with sequins.",170,LC,When,she,moved,"away,",my,girlfriend,sold,the,black,dress,with,sequins.,,,,,128,dress,10
+He was very thirsty and needed something to drink at the bar.,171,HC,He,was,very,thirsty,and,needed,something,to,drink,at,the,bar.,,,,,153,drink,9
+"At the restaurant, he didn't want anything to drink at the bar.",172,MC,At,the,"restaurant,",he,didn't,want,anything,to,drink,at,the,bar.,,,,,153,drink,9
+"When school ended, my friends just wanted to drink at the bar.",173,LC,When,school,"ended,",my,friends,just,wanted,to,drink,at,the,bar.,,,,,153,drink,9
+The lake had dried up after last year's drought in California.,174,HC,The,lake,had,dried,up,after,last,year's,drought,in,California.,,,,,,8,drought,9
+They mortgaged all their land after last year's drought in California.,175,MC,They,mortgaged,all,their,land,after,last,year's,drought,in,California.,,,,,,8,drought,9
+They started filming a documentary about last year's drought in California.,176,LC,They,started,filming,a,documentary,about,last,year's,drought,in,California.,,,,,,8,drought,9
+My wife hangs the wet clothes outside to dry behind the barn.,177,HC,My,wife,hangs,the,wet,clothes,outside,to,dry,behind,the,barn.,,,,,96,dry,9
+The farmer was waiting for the field to dry behind the barn.,178,MC,The,farmer,was,waiting,for,the,field,to,dry,behind,the,barn.,,,,,96,dry,9
+The driver was waiting for the car to dry behind the barn.,179,LC,The,driver,was,waiting,for,the,car,to,dry,behind,the,barn.,,,,,96,dry,9
+"Her fridge was empty, and she had nothing to eat while she waited.",180,HC,Her,fridge,was,"empty,",and,she,had,nothing,to,eat,while,she,waited.,,,,36,eat,10
+"The premiere was starting, and she had nothing to eat while she waited.",181,MC,The,premiere,was,"starting,",and,she,had,nothing,to,eat,while,she,waited.,,,,36,eat,10
+"My cousin was bored, and she had nothing to eat while she waited.",182,LC,My,cousin,was,"bored,",and,she,had,nothing,to,eat,while,she,waited.,,,,36,eat,10
+The hen was going to lay some more eggs after sunrise.,183,HC,The,hen,was,going,to,lay,some,more,eggs,after,sunrise.,,,,,,147,eggs,9
+The man really wanted to fry some more eggs after sunrise.,184,MC,The,man,really,wanted,to,fry,some,more,eggs,after,sunrise.,,,,,,147,eggs,9
+The girl was planning to buy some more eggs after sunrise.,185,LC,The,girl,was,planning,to,buy,some,more,eggs,after,sunrise.,,,,,,147,eggs,9
+The senator campaigned in order to win the election that was weeks away.,186,HC,The,senator,campaigned,in,order,to,win,the,election,that,was,weeks,away.,,,,83,election,9
+The senator's wife was very angry about the election that was weeks away.,187,MC,The,senator's,wife,was,very,angry,about,the,election,that,was,weeks,away.,,,,83,election,9
+My roommate needed to learn more about the election that was weeks away.,188,LC,My,roommate,needed,to,learn,more,about,the,election,that,was,weeks,away.,,,,83,election,9
+"In Santa's workshop, the toys are made by the elves on Christmas Eve.",189,HC,In,Santa's,"workshop,",the,toys,are,made,by,the,elves,on,Christmas,Eve.,,,,197,elves,10
+His children thought the games were made by the elves on Christmas Eve.,190,MC,His,children,thought,the,games,were,made,by,the,elves,on,Christmas,Eve.,,,,197,elves,10
+Timmy wanted to hear another bedtime story about the elves on Christmas Eve.,191,LC,Timmy,wanted,to,hear,another,bedtime,story,about,the,elves,on,Christmas,Eve.,,,,197,elves,10
+"Melissa was crying, and we saw tears in her eyes which were bright blue.",192,HC,Melissa,was,"crying,",and,we,saw,tears,in,her,eyes,which,were,bright,blue.,,,10,eyes,10
+"During the checkup, the doctor looked carefully into her eyes which were bright blue.",193,MC,During,the,"checkup,",the,doctor,looked,carefully,into,her,eyes,which,were,bright,blue.,,,10,eyes,10
+Her new wallpaper was the same color as her eyes which were bright blue.,194,LC,Her,new,wallpaper,was,the,same,color,as,her,eyes,which,were,bright,blue.,,,10,eyes,10
+Old McDonald had plenty of animals on his farm in Pennsylvania.,195,HC,Old,McDonald,had,plenty,of,animals,on,his,farm,in,Pennsylvania.,,,,,,66,farm,9
+My uncle planted lots of trees on his farm in Pennsylvania.,196,MC,My,uncle,planted,lots,of,trees,on,his,farm,in,Pennsylvania.,,,,,,66,farm,9
+My uncle is installing solar panels on his farm in Pennsylvania.,197,LC,My,uncle,is,installing,solar,panels,on,his,farm,in,Pennsylvania.,,,,,,66,farm,9
+"Because he loved to work the land, Jim became a farmer in his hometown.",198,HC,Because,he,loved,to,work,the,"land,",Jim,became,a,farmer,in,his,hometown.,,,149,farmer,11
+"After returning home from the big city, Jim became a farmer in his hometown.",199,MC,After,returning,home,from,the,big,"city,",Jim,became,a,farmer,in,his,hometown.,,,149,farmer,11
+"After he returned home from his travels, Jim became a farmer in his hometown.",200,LC,After,he,returned,home,from,his,"travels,",Jim,became,a,farmer,in,his,hometown.,,,149,farmer,11
+"Before mopping, he had to sweep the floor because the boss insisted.",201,HC,Before,"mopping,",he,had,to,sweep,the,floor,because,the,boss,insisted.,,,,,32,floor,8
+All the books were stacked on the floor because the boss insisted.,202,MC,All,the,books,were,stacked,on,the,floor,because,the,boss,insisted.,,,,,32,floor,8
+After the party the butler cleaned the floor because the boss insisted.,203,LC,After,the,party,the,butler,cleaned,the,floor,because,the,boss,insisted.,,,,,32,floor,8
+"To keep the dough from sticking, she dusted her hands with flour from the store.",204,HC,To,keep,the,dough,from,"sticking,",she,dusted,her,hands,with,flour,from,the,store.,,146,flour,12
+The chef dumped out the measuring cup that was filled with flour from the store.,205,MC,The,chef,dumped,out,the,measuring,cup,that,was,filled,with,flour,from,the,store.,,146,flour,12
+"At the end of the day, her clothes were covered with flour from the store.",206,LC,At,the,end,of,the,"day,",her,clothes,were,covered,with,flour,from,the,store.,,146,flour,12
+"Pam received a rose, but preferred any other species of flower according to Alan.",207,HC,Pam,received,a,"rose,",but,preferred,any,other,species,of,flower,according,to,Alan.,,,185,flower,11
+"As an anniversary gift, she received a rare kind of flower according to Alan.",208,MC,As,an,anniversary,"gift,",she,received,a,rare,kind,of,flower,according,to,Alan.,,,185,flower,11
+Charlotte finished reading a book about a rare kind of flower according to Alan.,209,LC,Charlotte,finished,reading,a,book,about,a,rare,kind,of,flower,according,to,Alan.,,,185,flower,11
+"After the goose injured its wing, it could no longer fly or move around.",210,HC,After,the,goose,injured,its,"wing,",it,could,no,longer,fly,or,move,around.,,,172,fly,11
+"When it's locked in a cage, it can no longer fly or move around.",211,MC,When,it's,locked,in,a,"cage,",it,can,no,longer,fly,or,move,around.,,,172,fly,11
+"When he dropped the new toy, it could no longer fly or move around.",212,LC,When,he,dropped,the,new,"toy,",it,could,no,longer,fly,or,move,around.,,,172,fly,11
+"The editor, who hates Times New Roman, decided to switch the font of the magazine.",213,HC,The,"editor,",who,hates,Times,New,"Roman,",decided,to,switch,the,font,of,the,magazine.,,181,font,12
+"Brenda is the editor, and she recently decided to switch the font of the magazine.",214,MC,Brenda,is,the,"editor,",and,she,recently,decided,to,switch,the,font,of,the,magazine.,,181,font,12
+Brenda had a change of heart and decided to switch the font of the magazine.,215,LC,Brenda,had,a,change,of,heart,and,decided,to,switch,the,font,of,the,magazine.,,181,font,12
+"To display the beautiful photo, she ordered an elegant frame made of silver.",216,HC,To,display,the,beautiful,"photo,",she,ordered,an,elegant,frame,made,of,silver.,,,,150,frame,10
+The burglar stole the painting but left the elegant frame made of silver.,217,MC,The,burglar,stole,the,painting,but,left,the,elegant,frame,made,of,silver.,,,,150,frame,10
+"While she was shopping yesterday, she bought an elegant frame made of silver.",218,LC,While,she,was,shopping,"yesterday,",she,bought,an,elegant,frame,made,of,silver.,,,,150,frame,10
+Apples are definitely his favorite type of fruit as well.,219,HC,Apples,are,definitely,his,favorite,type,of,fruit,as,well.,,,,,,,178,fruit,8
+The farmers were selling a lot of fruit as well.,220,MC,The,farmers,were,selling,a,lot,of,fruit,as,well.,,,,,,,178,fruit,8
+Jason brought his parents a lot of fruit as well.,221,LC,Jason,brought,his,parents,a,lot,of,fruit,as,well.,,,,,,,178,fruit,8
+Gasoline usually costs about three dollars for a gallon in Virginia.,222,HC,Gasoline,usually,costs,about,three,dollars,for,a,gallon,in,Virginia.,,,,,,122,gallon,9
+The thirsty police officer could probably drink a gallon in Virginia.,223,MC,The,thirsty,police,officer,could,probably,drink,a,gallon,in,Virginia.,,,,,,122,gallon,9
+The store always charged too much for a gallon in Virginia.,224,LC,The,store,always,charged,too,much,for,a,gallon,in,Virginia.,,,,,,122,gallon,9
+"Her vision was terrible, and she has to wear glasses in class.",225,HC,Her,vision,was,"terrible,",and,she,has,to,wear,glasses,in,class.,,,,,44,glasses,10
+She looks very different when she has to wear glasses in class.,226,MC,She,looks,very,different,when,she,has,to,wear,glasses,in,class.,,,,,44,glasses,10
+Her mother was adamant that she has to wear glasses in class.,227,LC,Her,mother,was,adamant,that,she,has,to,wear,glasses,in,class.,,,,,44,glasses,10
+The doctor wore the sterile rubber gloves in the hospital.,228,HC,The,doctor,wore,the,sterile,rubber,gloves,in,the,hospital.,,,,,,,143,gloves,7
+The trainee used the thick rubber gloves in the hospital.,229,MC,The,trainee,used,the,thick,rubber,gloves,in,the,hospital.,,,,,,,143,gloves,7
+The child carried the black rubber gloves in the hospital.,230,LC,The,child,carried,the,black,rubber,gloves,in,the,hospital.,,,,,,,143,gloves,7
+The soccer team celebrated after their player scored a goal during the game.,231,HC,The,soccer,team,celebrated,after,their,player,scored,a,goal,during,the,game.,,,,137,goal,10
+"Their team never won, because they never got a goal during the game.",232,MC,Their,team,never,"won,",because,they,never,got,a,goal,during,the,game.,,,,137,goal,10
+He knew that it was important to have a goal during the game.,233,LC,He,knew,that,it,was,important,to,have,a,goal,during,the,game.,,,,137,goal,10
+The collector's most valuable coins were made of silver and gold from India.,234,HC,The,collector's,most,valuable,coins,were,made,of,silver,and,gold,from,India.,,,,215,gold,11
+The miners were able to extract lots of iron and gold from India.,235,MC,The,miners,were,able,to,extract,lots,of,iron,and,gold,from,India.,,,,215,gold,11
+"Brazil is known to import lots of lumber, livestock, and gold from India.",236,LC,Brazil,is,known,to,import,lots,of,"lumber,","livestock,",and,gold,from,India.,,,,215,gold,11
+"Before eating dinner, the family held hands to say grace around the table.",237,HC,Before,eating,"dinner,",the,family,held,hands,to,say,grace,around,the,table.,,,,114,grace,10
+The family wondered whether the visitors wanted to say grace around the table.,238,MC,The,family,wondered,whether,the,visitors,wanted,to,say,grace,around,the,table.,,,,114,grace,10
+Timmy listened to hear if the men would say grace around the table.,239,LC,Timmy,listened,to,hear,if,the,men,would,say,grace,around,the,table.,,,,114,grace,10
+On the mashed potatoes she poured a delicious gravy that tastes great.,240,HC,On,the,mashed,potatoes,she,poured,a,delicious,gravy,that,tastes,great.,,,,,31,gravy,9
+She thickened the stock to make a delicious gravy that tastes great.,241,MC,She,thickened,the,stock,to,make,a,delicious,gravy,that,tastes,great.,,,,,31,gravy,9
+The restaurant was famous for making a delicious gravy that tastes great.,242,LC,The,restaurant,was,famous,for,making,a,delicious,gravy,that,tastes,great.,,,,,31,gravy,9
+The passwords were stolen by a brilliant hacker living in San Bernardino.,243,HC,The,passwords,were,stolen,by,a,brilliant,hacker,living,in,San,Bernardino.,,,,,18,hacker,8
+The security experts were arresting a brilliant hacker living in San Bernardino.,244,MC,The,security,experts,were,arresting,a,brilliant,hacker,living,in,San,Bernardino.,,,,,18,hacker,8
+The software was designed by a brilliant hacker living in San Bernardino.,245,LC,The,software,was,designed,by,a,brilliant,hacker,living,in,San,Bernardino.,,,,,18,hacker,8
+The barber gave Brian a nice looking haircut with clean lines.,246,HC,The,barber,gave,Brian,a,nice,looking,haircut,with,clean,lines.,,,,,,84,haircut,8
+"That weekend, Brian got a nice looking haircut with clean lines.",247,MC,That,"weekend,",Brian,got,a,nice,looking,haircut,with,clean,lines.,,,,,,84,haircut,8
+We noticed Brian had a nice looking haircut with clean lines.,248,LC,We,noticed,Brian,had,a,nice,looking,haircut,with,clean,lines.,,,,,,84,haircut,8
+"The angry visitor said hello, but he refused to shake my hand at the office.",249,HC,The,angry,visitor,said,"hello,",but,he,refused,to,shake,my,hand,at,the,office.,,191,hand,12
+"I couldn't finish writing, because there was something wrong with my hand at the office.",250,MC,I,couldn't,finish,"writing,",because,there,was,something,wrong,with,my,hand,at,the,office.,,191,hand,12
+I was very uncomfortable because I had a cramp in my hand at the office.,251,LC,I,was,very,uncomfortable,because,I,had,a,cramp,in,my,hand,at,the,office.,,191,hand,12
+The child couldn't carry the luggage because it was too heavy and bulky.,252,HC,The,child,couldn't,carry,the,luggage,because,it,was,too,heavy,and,bulky.,,,,67,heavy,11
+Ben didn't like his vacuum cleaner because it was too heavy and bulky.,253,MC,Ben,didn't,like,his,vacuum,cleaner,because,it,was,too,heavy,and,bulky.,,,,67,heavy,11
+The hikers didn't buy the tent because it was too heavy and bulky.,254,LC,The,hikers,didn't,buy,the,tent,because,it,was,too,heavy,and,bulky.,,,,67,heavy,11
+"They didn't have a puck or skates, so they couldn't play hockey at school.",255,HC,They,didn't,have,a,puck,or,"skates,",so,they,couldn't,play,hockey,at,school.,,,174,hockey,12
+My brother got his teeth knocked out while trying to play hockey at school.,256,MC,My,brother,got,his,teeth,knocked,out,while,trying,to,play,hockey,at,school.,,,174,hockey,12
+"Because football season is over, Bill is now training to play hockey at school.",257,LC,Because,football,season,is,"over,",Bill,is,now,training,to,play,hockey,at,school.,,,174,hockey,12
+The fisherman attached the worm to the hook with the sharp point.,258,HC,The,fisherman,attached,the,worm,to,the,hook,with,the,sharp,point.,,,,,219,hook,8
+We definitely saw the fish swallow the hook with the sharp point.,259,MC,We,definitely,saw,the,fish,swallow,the,hook,with,the,sharp,point.,,,,,219,hook,8
+James didn't have enough money for the hook with the sharp point.,260,LC,James,didn't,have,enough,money,for,the,hook,with,the,sharp,point.,,,,,219,hook,8
+"To water the huge garden, they needed a long hose with an attachment.",261,HC,To,water,the,huge,"garden,",they,needed,a,long,hose,with,an,attachment.,,,,136,hose,10
+"Outside in the back yard, they needed a long hose with an attachment.",262,MC,Outside,in,the,back,"yard,",they,needed,a,long,hose,with,an,attachment.,,,,136,hose,10
+"Over at the loading dock, they needed a long hose with an attachment.",263,LC,Over,at,the,loading,"dock,",they,needed,a,long,hose,with,an,attachment.,,,,136,hose,10
+"For their anniversary in Seattle, they booked a room at a nice hotel in town.",264,HC,For,their,anniversary,in,"Seattle,",they,booked,a,room,at,a,nice,hotel,in,town.,,131,hotel,13
+"For the wedding reception, they were supposed to meet at a nice hotel in town.",265,MC,For,the,wedding,"reception,",they,were,supposed,to,meet,at,a,nice,hotel,in,town.,,131,hotel,13
+The investment banker was supposed to meet his client at a nice hotel in town.,266,LC,The,investment,banker,was,supposed,to,meet,his,client,at,a,nice,hotel,in,town.,,131,hotel,13
+"After hours of brainstorming, they had run out of ideas to solve the problem.",267,HC,After,hours,of,"brainstorming,",they,had,run,out,of,ideas,to,solve,the,problem.,,,167,ideas,10
+The consultant said that he had run out of ideas to solve the problem.,268,MC,The,consultant,said,that,he,had,run,out,of,ideas,to,solve,the,problem.,,,167,ideas,10
+The chef said that he had run out of ideas to solve the problem.,269,LC,The,chef,said,that,he,had,run,out,of,ideas,to,solve,the,problem.,,,167,ideas,10
+"Using ice and snow, the traditional Eskimo family built a small igloo on a hill.",270,HC,Using,ice,and,"snow,",the,traditional,Eskimo,family,built,a,small,igloo,on,a,hill.,,101,igloo,12
+"To get warm, the two arctic explorers climbed inside a small igloo on a hill.",271,MC,To,get,"warm,",the,two,arctic,explorers,climbed,inside,a,small,igloo,on,a,hill.,,101,igloo,12
+The shivering family was huddled in the shelter of a small igloo on a hill.,272,LC,The,shivering,family,was,huddled,in,the,shelter,of,a,small,igloo,on,a,hill.,,101,igloo,12
+His green pen had just run out of ink in the office.,273,HC,His,green,pen,had,just,run,out,of,ink,in,the,office.,,,,,95,ink,9
+The famous writer had just run out of ink in the office.,274,MC,The,famous,writer,had,just,run,out,of,ink,in,the,office.,,,,,95,ink,9
+The supply cabinet had just run out of ink in the office.,275,LC,The,supply,cabinet,had,just,run,out,of,ink,in,the,office.,,,,,95,ink,9
+The diabetic lady needed to inject some insulin to control her blood sugar.,276,HC,The,diabetic,lady,needed,to,inject,some,insulin,to,control,her,blood,sugar.,,,,168,insulin,8
+She brought the needle to inject some insulin to control her blood sugar.,277,MC,She,brought,the,needle,to,inject,some,insulin,to,control,her,blood,sugar.,,,,168,insulin,8
+The homeless woman tried to inject some insulin to control her blood sugar.,278,LC,The,homeless,woman,tried,to,inject,some,insulin,to,control,her,blood,sugar.,,,,168,insulin,8
+I smoothed out the wrinkled pants with the new iron in the bedroom.,279,HC,I,smoothed,out,the,wrinkled,pants,with,the,new,iron,in,the,bedroom.,,,,29,iron,10
+I accidentally burned my hand while using the new iron in the bedroom.,280,MC,I,accidentally,burned,my,hand,while,using,the,new,iron,in,the,bedroom.,,,,29,iron,10
+I saw some steam coming out of the new iron in the bedroom.,281,LC,I,saw,some,steam,coming,out,of,the,new,iron,in,the,bedroom.,,,,29,iron,10
+The sailors saw a single palm tree in the center of the island in Bermuda.,282,HC,The,sailors,saw,a,single,palm,tree,in,the,center,of,the,island,in,Bermuda.,,183,island,13
+The rescue workers recently found an old hermit living alone on the island in Bermuda.,283,MC,The,rescue,workers,recently,found,an,old,hermit,living,alone,on,the,island,in,Bermuda.,,183,island,13
+The rescue workers just learned that the captain had died on the island in Bermuda.,284,LC,The,rescue,workers,just,learned,that,the,captain,had,died,on,the,island,in,Bermuda.,,183,island,13
+She smothered the sandwich with peanut butter and lots of jelly made from raspberries.,285,HC,She,smothered,the,sandwich,with,peanut,butter,and,lots,of,jelly,made,from,raspberries.,,,111,jelly,11
+"Every Spring, the farmers would make jam and lots of jelly made from raspberries.",286,MC,Every,"Spring,",the,farmers,would,make,jam,and,lots,of,jelly,made,from,raspberries.,,,111,jelly,11
+"At Costco, she bought some crisp apples and lots of jelly made from raspberries.",287,LC,At,"Costco,",she,bought,some,crisp,apples,and,lots,of,jelly,made,from,raspberries.,,,111,jelly,11
+He usually eats a whole orange rather than just drinking the juice at breakfast.,288,HC,He,usually,eats,a,whole,orange,rather,than,just,drinking,the,juice,at,breakfast.,,,81,juice,12
+My husband was flipping the pancakes and I was pouring the juice at breakfast.,289,MC,My,husband,was,flipping,the,pancakes,and,I,was,pouring,the,juice,at,breakfast.,,,81,juice,12
+The elderly man started to choke and sputter while drinking the juice at breakfast.,290,LC,The,elderly,man,started,to,choke,and,sputter,while,drinking,the,juice,at,breakfast.,,,81,juice,12
+She's locked out because she forgot to take her keys with her.,291,HC,She's,locked,out,because,she,forgot,to,take,her,keys,with,her.,,,,,212,keys,10
+"As she rushed out, she forgot to take her keys with her.",292,MC,As,she,rushed,"out,",she,forgot,to,take,her,keys,with,her.,,,,,212,keys,10
+"While running her errands, she forgot to take her keys with her.",293,LC,While,running,her,"errands,",she,forgot,to,take,her,keys,with,her.,,,,,212,keys,10
+The curse could only be broken by her true love's first kiss on the lips.,294,HC,The,curse,could,only,be,broken,by,her,TRUE,love's,first,kiss,on,the,lips.,,132,kiss,12
+Emma bragged to her friends that she had gotten her first kiss on the lips.,295,MC,Emma,bragged,to,her,friends,that,she,had,gotten,her,first,kiss,on,the,lips.,,132,kiss,12
+She didn't want to make a judgement based on the first kiss on the lips.,296,LC,She,didn't,want,to,make,a,judgement,based,on,the,first,kiss,on,the,lips.,,132,kiss,12
+They were cutting the cake using a silver knife that was valuable.,297,HC,They,were,cutting,the,cake,using,a,silver,knife,that,was,valuable.,,,,,112,knife,9
+We decided to buy the cook a silver knife that was valuable.,298,MC,We,decided,to,buy,the,cook,a,silver,knife,that,was,valuable.,,,,,112,knife,9
+"When my grandfather died, I inherited a silver knife that was valuable.",299,LC,When,my,grandfather,"died,",I,inherited,a,silver,knife,that,was,valuable.,,,,,112,knife,9
+The wide highway downtown has more than six lanes of traffic.,300,HC,The,wide,highway,downtown,has,more,than,six,lanes,of,traffic.,,,,,,43,lanes,9
+The group of bikers crossed more than six lanes of traffic.,301,MC,The,group,of,bikers,crossed,more,than,six,lanes,of,traffic.,,,,,,43,lanes,9
+The marathon runners will cross more than six lanes of traffic.,302,LC,The,marathon,runners,will,cross,more,than,six,lanes,of,traffic.,,,,,,43,lanes,9
+The birthday card was funny and made me laugh at work.,303,HC,The,birthday,card,was,funny,and,made,me,laugh,at,work.,,,,,,125,laugh,9
+The coach of our team always made me laugh at work.,304,MC,The,coach,of,our,team,always,made,me,laugh,at,work.,,,,,,125,laugh,9
+My supervisor and coworkers have never seen me laugh at work.,305,LC,My,supervisor,and,coworkers,have,never,seen,me,laugh,at,work.,,,,,,125,laugh,9
+The owner paid the children to mow the lawn in front of his house.,306,HC,The,owner,paid,the,children,to,mow,the,lawn,in,front,of,his,house.,,,92,lawn,9
+We saw our neighbor was working on the lawn in front of his house.,307,MC,We,saw,our,neighbor,was,working,on,the,lawn,in,front,of,his,house.,,,92,lawn,9
+We saw the man walking barefoot across the lawn in front of his house.,308,LC,We,saw,the,man,walking,barefoot,across,the,lawn,in,front,of,his,house.,,,92,lawn,9
+"When the company sued him, he decided to hire a lawyer right away.",309,HC,When,the,company,sued,"him,",he,decided,to,hire,a,lawyer,right,away.,,,,49,lawyer,11
+"When he crashed his car, he decided to hire a lawyer right away.",310,MC,When,he,crashed,his,"car,",he,decided,to,hire,a,lawyer,right,away.,,,,49,lawyer,11
+"When he crashed his car, he decided to call a lawyer right away.",311,LC,When,he,crashed,his,"car,",he,decided,to,call,a,lawyer,right,away.,,,,49,lawyer,11
+The motorcycle jacket was made out of black leather and tough fabric.,312,HC,The,motorcycle,jacket,was,made,out,of,black,leather,and,tough,fabric.,,,,,124,leather,9
+Her new skirt was made out of black leather and tough fabric.,313,MC,Her,new,skirt,was,made,out,of,black,leather,and,tough,fabric.,,,,,124,leather,9
+"For her project, she bought lots of black leather and tough fabric.",314,LC,For,her,"project,",she,bought,lots,of,black,leather,and,tough,fabric.,,,,,124,leather,9
+Bill raked up all the leaves in front of his condo.,315,HC,Bill,raked,up,all,the,leaves,in,front,of,his,condo.,,,,,,142,leaves,6
+The breeze lifted all the leaves in front of his condo.,316,MC,The,breeze,lifted,all,the,leaves,in,front,of,his,condo.,,,,,,142,leaves,6
+Watson gathered up all the leaves in front of his condo.,317,LC,Watson,gathered,up,all,the,leaves,in,front,of,his,condo.,,,,,,142,leaves,6
+"Because Peter never told the truth, everyone knew he was a liar with real issues.",318,HC,Because,Peter,never,told,the,"truth,",everyone,knew,he,was,a,liar,with,real,issues.,,85,liar,12
+"When Peter's dark secret was discovered, everyone knew he was a liar with real issues.",319,MC,When,Peter's,dark,secret,was,"discovered,",everyone,knew,he,was,a,liar,with,real,issues.,,85,liar,12
+"When Peter got out of prison, everyone knew he was a liar with real issues.",320,LC,When,Peter,got,out,of,"prison,",everyone,knew,he,was,a,liar,with,real,issues.,,85,liar,12
+"Because it was overdue, Billy returned the book to the library down the street.",321,HC,Because,it,was,"overdue,",Billy,returned,the,book,to,the,library,down,the,street.,,,141,library,11
+To get some peace and quiet he went to the library down the street.,322,MC,To,get,some,peace,and,quiet,he,went,to,the,library,down,the,street.,,,141,library,11
+"After finishing up at the store, they went to the library down the street.",323,LC,After,finishing,up,at,the,"store,",they,went,to,the,library,down,the,street.,,,141,library,11
+"It was dark in the bedroom, so she turned on the light in the corner.",324,HC,It,was,dark,in,the,"bedroom,",so,she,turned,on,the,light,in,the,corner.,,70,light,12
+She couldn't read the book because her brother was blocking the light in the corner.,325,MC,She,couldn't,read,the,book,because,her,brother,was,blocking,the,light,in,the,corner.,,70,light,12
+You can damage your vision if you keep staring at the light in the corner.,326,LC,You,can,damage,your,vision,if,you,keep,staring,at,the,light,in,the,corner.,,70,light,12
+"Before meeting Brad, she put on black eyeliner and some red lipstick that looked nice.",327,HC,Before,meeting,"Brad,",she,put,on,black,eyeliner,and,some,red,lipstick,that,looked,nice.,,205,lipstick,12
+"At the premier, she wore a black dress and some red lipstick that looked nice.",328,MC,At,the,"premier,",she,wore,a,black,dress,and,some,red,lipstick,that,looked,nice.,,205,lipstick,12
+"At the store, she bought some black pens and some red lipstick that looked nice.",329,LC,At,the,"store,",she,bought,some,black,pens,and,some,red,lipstick,that,looked,nice.,,205,lipstick,12
+I had to go inside because the jackhammer was very loud and annoying.,330,HC,I,had,to,go,inside,because,the,jackhammer,was,very,loud,and,annoying.,,,,12,loud,11
+The kid who was playing on the playground was very loud and annoying.,331,MC,The,kid,who,was,playing,on,the,playground,was,very,loud,and,annoying.,,,,12,loud,11
+"She saw her coworker at the bar, who was very loud and annoying.",332,LC,She,saw,her,coworker,at,the,"bar,",who,was,very,loud,and,annoying.,,,,12,loud,11
+"He didn't eat breakfast, and he forgot to pack his lunch and his thermos.",333,HC,He,didn't,eat,"breakfast,",and,he,forgot,to,pack,his,lunch,and,his,thermos.,,,21,lunch,11
+"For the student's daytrip, he had forgotten to bring his lunch and his thermos.",334,MC,For,the,student's,"daytrip,",he,had,forgotten,to,bring,his,lunch,and,his,thermos.,,,21,lunch,11
+He was late because he had to pick up his lunch and his thermos.,335,LC,He,was,late,because,he,had,to,pick,up,his,lunch,and,his,thermos.,,,21,lunch,11
+The gentleman lit the candle using a single match which was surprising.,336,HC,The,gentleman,lit,the,candle,using,a,single,match,which,was,surprising.,,,,,148,match,9
+The forest fire was started by a single match which was surprising.,337,MC,The,forest,fire,was,started,by,a,single,match,which,was,surprising.,,,,,148,match,9
+None of the man's coworkers had a single match which was surprising.,338,LC,,of,the,man's,coworkers,had,a,single,match,which,was,surprising.,,,,,148,match,9
+Ben was great at remembering numbers because he had a good memory since childhood.,339,HC,Ben,was,great,at,remembering,numbers,because,he,had,a,good,memory,since,childhood.,,,22,memory,12
+Ben always did well in Biology because he had a good memory since childhood.,340,MC,Ben,always,did,well,in,Biology,because,he,had,a,good,memory,since,childhood.,,,22,memory,12
+Ben was always an excellent employee because he had a good memory since childhood.,341,LC,Ben,was,always,an,excellent,employee,because,he,had,a,good,memory,since,childhood.,,,22,memory,12
+The dairy cow produced a lot of milk that looks fresh.,342,HC,The,dairy,cow,produced,a,lot,of,milk,that,looks,fresh.,,,,,,33,milk,8
+The large jug held a lot of milk that looks fresh.,343,MC,The,large,jug,held,a,lot,of,milk,that,looks,fresh.,,,,,,33,milk,8
+The local farmers produced a lot of milk that looks fresh.,344,LC,The,local,farmers,produced,a,lot,of,milk,that,looks,fresh.,,,,,,33,milk,8
+The hikers climbed to the summit of the mountain in the Adirondacks.,345,HC,The,hikers,climbed,to,the,summit,of,the,mountain,in,the,Adirondacks.,,,,,154,mountain,9
+The couple camped near the side of the mountain in the Adirondacks.,346,MC,The,couple,camped,near,the,side,of,the,mountain,in,the,Adirondacks.,,,,,154,mountain,9
+The scholars learned about the history of the mountain in the Adirondacks.,347,LC,The,scholars,learned,about,the,history,of,the,mountain,in,the,Adirondacks.,,,,,154,mountain,9
+"After the body was discovered, our neighbor was arrested for murder and arson.",348,HC,After,the,body,was,"discovered,",our,neighbor,was,arrested,for,murder,and,arson.,,,,208,murder,11
+Our son was innocent and shouldn't have been arrested for murder and arson.,349,MC,Our,son,was,innocent,and,shouldn't,have,been,arrested,for,murder,and,arson.,,,,208,murder,11
+"When the building burned down, the man was arrested for murder and arson.",350,LC,When,the,building,burned,"down,",the,man,was,arrested,for,murder,and,arson.,,,,208,murder,11
+"Before the weight lifting tournament, he needed to build some muscle real fast.",351,HC,Before,the,weight,lifting,"tournament,",he,needed,to,build,some,muscle,real,fast.,,,,53,muscle,11
+The head of the cheerleading squad needed to build some muscle real fast.,352,MC,The,head,of,the,cheerleading,squad,needed,to,build,some,muscle,real,fast.,,,,53,muscle,11
+"After arriving at the campus, he wanted to build some muscle real fast.",353,LC,After,arriving,at,the,"campus,",he,wanted,to,build,some,muscle,real,fast.,,,,53,muscle,11
+"The burgers were messy, so he made sure to grab a napkin made of linen.",354,HC,The,burgers,were,"messy,",so,he,made,sure,to,grab,a,napkin,made,of,linen.,,34,napkin,12
+"At the diner, the waitress had forgotten to bring him a napkin made of linen.",355,MC,At,the,"diner,",the,waitress,had,forgotten,to,bring,him,a,napkin,made,of,linen.,,34,napkin,12
+When he was walking past the kitchen he accidentally dropped a napkin made of linen.,356,LC,When,he,was,walking,past,the,kitchen,he,accidentally,dropped,a,napkin,made,of,linen.,,34,napkin,12
+They had to walk single file because the path was too narrow and cramped.,357,HC,They,had,to,walk,single,file,because,the,path,was,too,narrow,and,cramped.,,,108,narrow,12
+They decided to use the elevator because the stairwell was too narrow and cramped.,358,MC,They,decided,to,use,the,elevator,because,the,stairwell,was,too,narrow,and,cramped.,,,108,narrow,12
+They decided not to go rafting because the river was too narrow and cramped.,359,LC,They,decided,not,to,go,rafting,because,the,river,was,too,narrow,and,cramped.,,,108,narrow,12
+"Of all the animals, the giraffe is known for its long neck and distinctive colors.",360,HC,Of,all,the,"animals,",the,giraffe,is,known,for,its,long,neck,and,distinctive,colors.,,211,neck,12
+"Of all the animals, the flamingo is known for its long neck and distinctive colors.",361,MC,Of,all,the,"animals,",the,flamingo,is,known,for,its,long,neck,and,distinctive,colors.,,211,neck,12
+"Of all the animals, the peacock is known for its long neck and distinctive colors.",362,LC,Of,all,the,"animals,",the,peacock,is,known,for,its,long,neck,and,distinctive,colors.,,211,neck,12
+She couldn't get the thread through the eye of the needle while quilting.,363,HC,She,couldn't,get,the,thread,through,the,eye,of,the,needle,while,quilting.,,,,193,needle,11
+The woman accidentally poked herself with the tip of the needle while quilting.,364,MC,The,woman,accidentally,poked,herself,with,the,tip,of,the,needle,while,quilting.,,,,193,needle,11
+During arts and crafts she broke the tip of the needle while quilting.,365,LC,During,arts,and,crafts,she,broke,the,tip,of,the,needle,while,quilting.,,,,193,needle,11
+"Before laying its eggs, the robin had to build a nest made of twigs.",366,HC,Before,laying,its,"eggs,",the,robin,had,to,build,a,nest,made,of,twigs.,,,207,nest,11
+"Up in the poplar tree, the stray cat found a nest made of twigs.",367,MC,Up,in,the,poplar,"tree,",the,stray,cat,found,a,nest,made,of,twigs.,,,207,nest,11
+"While cleaning up outside, Jerry had to throw away a nest made of twigs.",368,LC,While,cleaning,up,"outside,",Jerry,had,to,throw,away,a,nest,made,of,twigs.,,,207,nest,11
+The volleyball shot barely made it over the net in the high school gym.,369,HC,The,volleyball,shot,barely,made,it,over,the,net,in,the,high,school,gym.,,,54,net,9
+The referee saw the ball roll under the net in the high school gym.,370,MC,The,referee,saw,the,ball,roll,under,the,net,in,the,high,school,gym.,,,54,net,9
+Samantha and Karen suspected it was under the net in the high school gym.,371,LC,Samantha,and,Karen,suspected,it,was,under,the,net,in,the,high,school,gym.,,,54,net,9
+"Because they are nocturnal creatures, all bats hunt at night in the city.",372,HC,Because,they,are,nocturnal,"creatures,",all,bats,hunt,at,night,in,the,city.,,,,184,night,10
+"To keep their relationship secret, they usually meet at night in the city.",373,MC,To,keep,their,relationship,"secret,",they,usually,meet,at,night,in,the,city.,,,,184,night,10
+The student was going to get her degree at night in the city.,374,LC,The,student,was,going,to,get,her,degree,at,night,in,the,city.,,,,184,night,10
+Jack forgot about the cookies baking in the oven at home.,375,HC,Jack,forgot,about,the,cookies,baking,in,the,oven,at,home.,,,,,,86,oven,9
+Jack remembered that he left something in the oven at home.,376,MC,Jack,remembered,that,he,left,something,in,the,oven,at,home.,,,,,,86,oven,9
+Jack remembered that he needed to clean the oven at home.,377,LC,Jack,remembered,that,he,needed,to,clean,the,oven,at,home.,,,,,,86,oven,9
+The heroin addict died of an overdose in the motel room.,378,HC,The,heroin,addict,died,of,an,overdose,in,the,motel,room.,,,,,,159,overdose,7
+They used naloxone to treat an overdose in the motel room.,379,MC,They,used,naloxone,to,treat,an,overdose,in,the,motel,room.,,,,,,159,overdose,7
+The celebrity showed signs of an overdose in the motel room.,380,LC,The,celebrity,showed,signs,of,an,overdose,in,the,motel,room.,,,,,,159,overdose,7
+The artist dipped her brush into a fresh can of paint for the mural.,381,HC,The,artist,dipped,her,brush,into,a,fresh,can,of,paint,for,the,mural.,,,110,paint,11
+At Home Depot they didn't sell the right kind of paint for the mural.,382,MC,At,Home,Depot,they,didn't,sell,the,right,kind,of,paint,for,the,mural.,,,110,paint,11
+Erica had always wanted to try a new type of paint for the mural.,383,LC,Erica,had,always,wanted,to,try,a,new,type,of,paint,for,the,mural.,,,110,paint,11
+The student opened his notebook and pulled out a piece of paper for taking notes.,384,HC,The,student,opened,his,notebook,and,pulled,out,a,piece,of,paper,for,taking,notes.,,72,paper,12
+"In all his chemistry classes, the student used a lot of paper for taking notes.",385,MC,In,all,his,chemistry,"classes,",the,student,used,a,lot,of,paper,for,taking,notes.,,72,paper,12
+The two researchers working in the clinical program needed lots of paper for taking notes.,386,LC,The,two,researchers,working,in,the,clinical,program,needed,lots,of,paper,for,taking,notes.,,72,paper,12
+"For my mother's birthday, we threw a huge party that made the neighbors angry.",387,HC,For,my,mother's,"birthday,",we,threw,a,huge,party,that,made,the,neighbors,angry.,,,202,party,9
+"On the last day, there was a huge party that made the neighbors angry.",388,MC,On,the,last,"day,",there,was,a,huge,party,that,made,the,neighbors,angry.,,,202,party,9
+"Right beside the lake, there was a huge party that made the neighbors angry.",389,LC,Right,beside,the,"lake,",there,was,a,huge,party,that,made,the,neighbors,angry.,,,202,party,9
+The website login asks for my username and password at some point.,390,HC,The,website,login,asks,for,my,username,and,password,at,some,point.,,,,,119,password,9
+Tim had forgotten his mother's email address and password at some point.,391,MC,Tim,had,forgotten,his,mother's,email,address,and,password,at,some,point.,,,,,119,password,9
+Tim's classmate tried to steal his phone and password at some point.,392,LC,Tim's,classmate,tried,to,steal,his,phone,and,password,at,some,point.,,,,,119,password,9
+"In the story, the wolf chased the three little pigs behind the house.",393,HC,In,the,"story,",the,wolf,chased,the,three,little,pigs,behind,the,house.,,,,23,pigs,10
+The farmer was raising cows and lots of little pigs behind the house.,394,MC,The,farmer,was,raising,cows,and,lots,of,little,pigs,behind,the,house.,,,,23,pigs,10
+"Bill checked outside, but he didn't see the little pigs behind the house.",395,LC,Bill,checked,"outside,",but,he,didn't,see,the,little,pigs,behind,the,house.,,,,23,pigs,10
+The tooth fairy was supposed to leave money under her pillow in the bedroom.,396,HC,The,tooth,fairy,was,supposed,to,leave,money,under,her,pillow,in,the,bedroom.,,,52,pillow,11
+My cousin usually kept her phone plugged in under her pillow in the bedroom.,397,MC,My,cousin,usually,kept,her,phone,plugged,in,under,her,pillow,in,the,bedroom.,,,52,pillow,11
+"When her wallet was missing, she found it under her pillow in the bedroom.",398,LC,When,her,wallet,was,"missing,",she,found,it,under,her,pillow,in,the,bedroom.,,,52,pillow,11
+"On the plane, Timmy went up to the cockpit to meet the pilot and copilot.",399,HC,On,the,"plane,",Timmy,went,up,to,the,cockpit,to,meet,the,pilot,and,copilot.,,26,pilot,13
+"When they arrived at their destination, the passengers got to meet the pilot and copilot.",400,MC,When,they,arrived,at,their,"destination,",the,passengers,got,to,meet,the,pilot,and,copilot.,,26,pilot,13
+"When we were told we had to evacuate, we listened to the pilot and copilot.",401,LC,When,we,were,told,we,had,to,"evacuate,",we,listened,to,the,pilot,and,copilot.,,26,pilot,13
+"The airport was crowded, and the passengers couldn't board the plane on the runway.",402,HC,The,airport,was,"crowded,",and,the,passengers,couldn't,board,the,plane,on,the,runway.,,,62,plane,11
+"After a three hour wait, the passengers could see the plane on the runway.",403,MC,After,a,three,hour,"wait,",the,passengers,could,see,the,plane,on,the,runway.,,,62,plane,11
+"After a three hour wait, the men could see the plane on the runway.",404,LC,After,a,three,hour,"wait,",the,men,could,see,the,plane,on,the,runway.,,,62,plane,11
+The king died because the assassin filled his cup with poison last night.,405,HC,The,king,died,because,the,assassin,filled,his,cup,with,poison,last,night.,,,,214,poison,11
+They were finally able to solve the mouse problem with poison last night.,406,MC,They,were,finally,able,to,solve,the,mouse,problem,with,poison,last,night.,,,,214,poison,11
+The small dagger that the soldier carried was covered with poison last night.,407,LC,The,small,dagger,that,the,soldier,carried,was,covered,with,poison,last,night.,,,,214,poison,11
+The gym won't let me swim in their heated pool after nightfall.,408,HC,The,gym,won't,let,me,swim,in,their,heated,pool,after,nightfall.,,,,,93,pool,10
+They needed to add more water to the heated pool after nightfall.,409,MC,They,needed,to,add,more,water,to,the,heated,pool,after,nightfall.,,,,,93,pool,10
+The men said that I shouldn't approach the heated pool after nightfall.,410,LC,The,men,said,that,I,shouldn't,approach,the,heated,pool,after,nightfall.,,,,,93,pool,10
+She added chives and sour cream to the baked potato that looked delicious.,411,HC,She,added,chives,and,sour,cream,to,the,baked,potato,that,looked,delicious.,,,,121,potato,10
+He opened up the oven to remove the baked potato that looked delicious.,412,MC,He,opened,up,the,oven,to,remove,the,baked,potato,that,looked,delicious.,,,,121,potato,10
+The waiter recommended the seafood linguini or the baked potato that looked delicious.,413,LC,The,waiter,recommended,the,seafood,linguini,or,the,baked,potato,that,looked,delicious.,,,,121,potato,10
+The parents of the awarded athlete felt very proud of his hard work.,414,HC,The,parents,of,the,awarded,athlete,felt,very,proud,of,his,hard,work.,,,,15,proud,9
+The owner of the Italian restaurant felt very proud of his hard work.,415,MC,The,owner,of,the,Italian,restaurant,felt,very,proud,of,his,hard,work.,,,,15,proud,9
+"After his final chemo treatment, he felt very proud of his hard work.",416,LC,After,his,final,chemo,"treatment,",he,felt,very,proud,of,his,hard,work.,,,,15,proud,9
+The water from her umbrella collected in a big puddle on the floor.,417,HC,The,water,from,her,umbrella,collected,in,a,big,puddle,on,the,floor.,,,,145,puddle,10
+The steam from her shower collected in a big puddle on the floor.,418,MC,The,steam,from,her,shower,collected,in,a,big,puddle,on,the,floor.,,,,145,puddle,10
+The drinks that they didn't finish made a big puddle on the floor.,419,LC,The,drinks,that,they,didn't,finish,made,a,big,puddle,on,the,floor.,,,,145,puddle,10
+"When the paramedic arrived, he checked the victim's wrist for a pulse and called 911.",420,HC,When,the,paramedic,"arrived,",he,checked,the,victim's,wrist,for,a,pulse,and,called,911,,45,pulse,12
+"When the expert arrived, he immediately checked the woman for a pulse and called 911.",421,MC,When,the,expert,"arrived,",he,immediately,checked,the,woman,for,a,pulse,and,called,911,,45,pulse,12
+"When the detective arrived at the scene, he looked for a pulse and called 911.",422,LC,When,the,detective,arrived,at,the,"scene,",he,looked,for,a,pulse,and,called,911,,45,pulse,12
+"For Halloween, they were carving a large pumpkin at the Farmer's market.",423,HC,For,"Halloween,",they,were,carving,a,large,pumpkin,at,the,Farmer's,market.,,,,,140,pumpkin,8
+"For the pie, they bought a large pumpkin at the Farmer's market.",424,MC,For,the,"pie,",they,bought,a,large,pumpkin,at,the,Farmer's,market.,,,,,140,pumpkin,8
+"Before the party, they bought a large pumpkin at the Farmer's market.",425,LC,Before,the,"party,",they,bought,a,large,pumpkin,at,the,Farmer's,market.,,,,,140,pumpkin,8
+He liked to study in the library because it was very quiet and peaceful.,426,HC,He,liked,to,study,in,the,library,because,it,was,very,quiet,and,peaceful.,,,218,quiet,12
+The group of people sitting in the concert hall was very quiet and peaceful.,427,MC,The,group,of,people,sitting,in,the,concert,hall,was,very,quiet,and,peaceful.,,,218,quiet,12
+The neighborhood at the top of the tall hill was very quiet and peaceful.,428,LC,The,neighborhood,at,the,top,of,the,tall,hill,was,very,quiet,and,peaceful.,,,218,quiet,12
+The tennis player firmly gripped the handle of his racket and swung.,429,HC,The,tennis,player,firmly,gripped,the,handle,of,his,racket,and,swung.,,,,,38,racket,10
+"While waiting for his partner, the player grabbed his racket and swung.",430,MC,While,waiting,for,his,"partner,",the,player,grabbed,his,racket,and,swung.,,,,,38,racket,10
+The crowd watched as the man picked up his racket and swung.,431,LC,The,crowd,watched,as,the,man,picked,up,his,racket,and,swung.,,,,,38,racket,10
+"Driving in the countryside, I could only hear static on the radio that evening.",432,HC,Driving,in,the,"countryside,",I,could,only,hear,static,on,the,radio,that,evening.,,,182,radio,12
+The woman learned some news about the approaching hurricane on the radio that evening.,433,MC,The,woman,learned,some,news,about,the,approaching,hurricane,on,the,radio,that,evening.,,,182,radio,12
+"Luckily, the old woman found lots of interesting programs on the radio that evening.",434,LC,"Luckily,",the,old,woman,found,lots,of,interesting,programs,on,the,radio,that,evening.,,,182,radio,12
+She brought an umbrella to protect her from the rain and sleet.,435,HC,She,brought,an,umbrella,to,protect,her,from,the,rain,and,sleet.,,,,,13,rain,10
+She brought a jacket to protect her from the rain and sleet.,436,MC,She,brought,a,jacket,to,protect,her,from,the,rain,and,sleet.,,,,,13,rain,10
+She arrived late because she got stuck in the rain and sleet.,437,LC,She,arrived,late,because,she,got,stuck,in,the,rain,and,sleet.,,,,,13,rain,10
+He gathered the leaves into a pile using a rake earlier this afternoon.,438,HC,He,gathered,the,leaves,into,a,pile,using,a,rake,earlier,this,afternoon.,,,,73,rake,10
+The homeowner was cleaning up the driveway using a rake earlier this afternoon.,439,MC,The,homeowner,was,cleaning,up,the,driveway,using,a,rake,earlier,this,afternoon.,,,,73,rake,10
+He tried to scare off the animal using a rake earlier this afternoon.,440,LC,He,tried,to,scare,off,the,animal,using,a,rake,earlier,this,afternoon.,,,,73,rake,10
+"During her painful headache, she took a Tylenol to get some relief like we suggested.",441,HC,During,her,painful,"headache,",she,took,a,Tylenol,to,get,some,relief,like,we,suggested.,,94,relief,12
+The old woman with the painful sunburn tried to get some relief like we suggested.,442,MC,The,old,woman,with,the,painful,sunburn,tried,to,get,some,relief,like,we,suggested.,,94,relief,12
+She decided they should take an extended vacation to get some relief like we suggested.,443,LC,She,decided,they,should,take,an,extended,vacation,to,get,some,relief,like,we,suggested.,,94,relief,12
+"To make sushi, she carefully boiled the grains of rice on the counter.",444,HC,To,make,"sushi,",she,carefully,boiled,the,grains,of,rice,on,the,counter.,,,,61,rice,10
+She used the pressure cooker to steam lots of rice on the counter.,445,MC,She,used,the,pressure,cooker,to,steam,lots,of,rice,on,the,counter.,,,,61,rice,10
+"In the kitchen, she accidentally spilled a bunch of rice on the counter.",446,LC,In,the,"kitchen,",she,accidentally,spilled,a,bunch,of,rice,on,the,counter.,,,,61,rice,10
+Before proposing to his girlfriend he would need a ring with a big diamond.,447,HC,Before,proposing,to,his,girlfriend,he,would,need,a,ring,with,a,big,diamond.,,,91,ring,10
+For my fiancée’s upcoming birthday I bought her a ring with a big diamond.,448,MC,For,my,fiancée’s,upcoming,birthday,I,bought,her,a,ring,with,a,big,diamond.,,,91,ring,10
+After receiving her paycheck she wanted to buy a ring with a big diamond.,449,LC,After,receiving,her,paycheck,she,wanted,to,buy,a,ring,with,a,big,diamond.,,,91,ring,10
+The climbers and guide were attached to each other by a rope made of nylon.,450,HC,The,climbers,and,guide,were,attached,to,each,other,by,a,rope,made,of,nylon.,,90,rope,12
+The skilled cave explorer remembered to bring his flashlight and a rope made of nylon.,451,MC,The,skilled,cave,explorer,remembered,to,bring,his,flashlight,and,a,rope,made,of,nylon.,,90,rope,12
+"When Jeff went to the sports equipment store, he bought a rope made of nylon.",452,LC,When,Jeff,went,to,the,sports,equipment,"store,",he,bought,a,rope,made,of,nylon.,,90,rope,12
+The wind couldn't push the boat because it had a tear in the sail after all.,453,HC,The,wind,couldn't,push,the,boat,because,it,had,a,tear,in,the,sail,after,all.,46,sail,14
+No one has told the sailors that there is something wrong with the sail after all.,454,MC,No,one,has,told,the,sailors,that,there,is,something,wrong,with,the,sail,after,all.,46,sail,14
+The team had to work for hours to fix the tear in the sail after all.,455,LC,The,team,had,to,work,for,hours,to,fix,the,tear,in,the,sail,after,all.,46,sail,14
+He bought the lettuce and croutons to make a salad for everyone.,456,HC,He,bought,the,lettuce,and,croutons,to,make,a,salad,for,everyone.,,,,,28,salad,10
+"For her lunch tomorrow, she decided to make a salad for everyone.",457,MC,For,her,lunch,"tomorrow,",she,decided,to,make,a,salad,for,everyone.,,,,,28,salad,10
+"On the last day, he decided to make a salad for everyone.",458,LC,On,the,last,"day,",he,decided,to,make,a,salad,for,everyone.,,,,,28,salad,10
+The store reduced their prices during the annual sale which always attracted customers.,459,HC,The,store,reduced,their,prices,during,the,annual,sale,which,always,attracted,customers.,,,,161,sale,9
+He spent lots of money at the annual sale which always attracted customers.,460,MC,He,spent,lots,of,money,at,the,annual,sale,which,always,attracted,customers.,,,,161,sale,9
+John and his wife prepared for the annual sale which always attracted customers.,461,LC,John,and,his,wife,prepared,for,the,annual,sale,which,always,attracted,customers.,,,,161,sale,9
+"To educate the children, they built a new school by the river.",462,HC,To,educate,the,"children,",they,built,a,new,school,by,the,river.,,,,,58,school,9
+My brother moved and transferred to a new school by the river.,463,MC,My,brother,moved,and,transferred,to,a,new,school,by,the,river.,,,,,58,school,9
+After the horrible flood they built a new school by the river.,464,LC,After,the,horrible,flood,they,built,a,new,school,by,the,river.,,,,,58,school,9
+"To read the prophecy, he unrolled the ancient scroll from Germany.",465,HC,To,read,the,"prophecy,",he,unrolled,the,ancient,scroll,from,Germany.,,,,,,74,scroll,9
+"While visiting court, the priest read the ancient scroll from Germany.",466,MC,While,visiting,"court,",the,priest,read,the,ancient,scroll,from,Germany.,,,,,,74,scroll,9
+The pair of thieves recently stole the ancient scroll from Germany.,467,LC,The,pair,of,thieves,recently,stole,the,ancient,scroll,from,Germany.,,,,,,74,scroll,9
+Susan forgot to put a period at the end of the sentence in the essay.,468,HC,Susan,forgot,to,put,a,period,at,the,end,of,the,sentence,in,the,essay.,,69,sentence,12
+Susan had a lot of trouble understanding the end of the sentence in the essay.,469,MC,Susan,had,a,lot,of,trouble,understanding,the,end,of,the,sentence,in,the,essay.,,69,sentence,12
+The substitute teacher was pretty impressed by the length of the sentence in the essay.,470,LC,The,substitute,teacher,was,pretty,impressed,by,the,length,of,the,sentence,in,the,essay.,,69,sentence,12
+"When the earthquake began, the whole building started shaking all of a sudden.",471,HC,When,the,earthquake,"began,",the,whole,building,started,shaking,all,of,a,sudden.,,,,165,shaking,9
+They fled in fear when the house started shaking all of a sudden.,472,MC,They,fled,in,fear,when,the,house,started,shaking,all,of,a,sudden.,,,,165,shaking,9
+"When the actor approached the audience, he started shaking all of a sudden.",473,LC,When,the,actor,approached,the,"audience,",he,started,shaking,all,of,a,sudden.,,,,165,shaking,9
+The swimmer was attacked by a great white shark in the ocean.,474,HC,The,swimmer,was,attacked,by,a,great,white,shark,in,the,ocean.,,,,,42,shark,9
+The marine biologist was studying a rare white shark in the ocean.,475,MC,The,marine,biologist,was,studying,a,rare,white,shark,in,the,ocean.,,,,,42,shark,9
+"Earlier, the dock worker saw a beautiful white shark in the ocean.",476,LC,"Earlier,",the,dock,worker,saw,a,beautiful,white,shark,in,the,ocean.,,,,,42,shark,9
+It could cut easily because the blade was very sharp at the end.,477,HC,It,could,cut,easily,because,the,blade,was,very,sharp,at,the,end.,,,,48,sharp,10
+"She always worked quickly, and her tool was very sharp at the end.",478,MC,She,always,worked,"quickly,",and,her,tool,was,very,sharp,at,the,end.,,,,48,sharp,10
+His mom sternly warned him because it was very sharp at the end.,479,LC,His,mom,sternly,warned,him,because,it,was,very,sharp,at,the,end.,,,,48,sharp,10
+Sarah pulled the book off the shelf in the study.,480,HC,Sarah,pulled,the,book,off,the,shelf,in,the,study.,,,,,,,113,shelf,7
+Sarah arranged the items on the shelf in the study.,481,MC,Sarah,arranged,the,items,on,the,shelf,in,the,study.,,,,,,,113,shelf,7
+Sarah noticed the mouse on the shelf in the study.,482,LC,Sarah,noticed,the,mouse,on,the,shelf,in,the,study.,,,,,,,113,shelf,7
+The warrior blocked the spear thrust with his large wooden shield covered in spikes.,483,HC,The,warrior,blocked,the,spear,thrust,with,his,large,wooden,shield,covered,in,spikes.,,,201,shield,11
+"In the warrior's tomb, the team discovered a large wooden shield covered in spikes.",484,MC,In,the,warrior's,"tomb,",the,team,discovered,a,large,wooden,shield,covered,in,spikes.,,,201,shield,11
+The accomplished artist carved the design on the large wooden shield covered in spikes.,485,LC,The,accomplished,artist,carved,the,design,on,the,large,wooden,shield,covered,in,spikes.,,,201,shield,11
+He couldn't reach the high shelf because he was very short for his age.,486,HC,He,couldn't,reach,the,high,shelf,because,he,was,very,short,for,his,age.,,,63,short,11
+The big kids always teased Jason because he was very short for his age.,487,MC,The,big,kids,always,teased,Jason,because,he,was,very,short,for,his,age.,,,63,short,11
+The parents were worried about Jason because he was very short for his age.,488,LC,The,parents,were,worried,about,Jason,because,he,was,very,short,for,his,age.,,,63,short,11
+"When exiting the highway, they had trouble reading the small sign in the distance.",489,HC,When,exiting,the,"highway,",they,had,trouble,reading,the,small,sign,in,the,distance.,,,189,sign,11
+"On their country drive, they had trouble seeing the small sign in the distance.",490,MC,On,their,country,"drive,",they,had,trouble,seeing,the,small,sign,in,the,distance.,,,189,sign,11
+"At the Italian restaurant, they had trouble reading the small sign in the distance.",491,LC,At,the,Italian,"restaurant,",they,had,trouble,reading,the,small,sign,in,the,distance.,,,189,sign,11
+Long before he saw the ambulance's lights he heard the siren off in the distance.,492,HC,Long,before,he,saw,the,ambulance's,lights,he,heard,the,siren,off,in,the,distance.,,200,siren,11
+When Dennis got closer to the intersection he heard the siren off in the distance.,493,MC,When,Dennis,got,closer,to,the,intersection,he,heard,the,siren,off,in,the,distance.,,200,siren,11
+The students were ducking for cover when they heard the siren off in the distance.,494,LC,The,students,were,ducking,for,cover,when,they,heard,the,siren,off,in,the,distance.,,200,siren,11
+She was the youngest out of all her brothers and sisters at home.,495,HC,She,was,the,youngest,out,of,all,her,brothers,and,sisters,at,home.,,,,117,sisters,11
+She learned how to use makeup from her friends and sisters at home.,496,MC,She,learned,how,to,use,makeup,from,her,friends,and,sisters,at,home.,,,,117,sisters,11
+She was always rude and obnoxious around her teachers and sisters at home.,497,LC,She,was,always,rude,and,obnoxious,around,her,teachers,and,sisters,at,home.,,,,117,sisters,11
+Not using sunscreen at the beach can damage your skin quite badly.,498,HC,Not,using,sunscreen,at,the,beach,can,damage,your,skin,quite,badly.,,,,,198,skin,10
+The chemicals floating in the water can damage your skin quite badly.,499,MC,The,chemicals,floating,in,the,water,can,damage,your,skin,quite,badly.,,,,,198,skin,10
+The factory produces noxious chemicals that can damage your skin quite badly.,500,LC,The,factory,produces,noxious,chemicals,that,can,damage,your,skin,quite,badly.,,,,,198,skin,10
+Eric comforted his tearful son and sang him to sleep after all the commotion.,501,HC,Eric,comforted,his,tearful,son,and,sang,him,to,sleep,after,all,the,commotion.,,,188,sleep,10
+My nephew told us that he didn't want to sleep after all the commotion.,502,MC,My,nephew,told,us,that,he,didn't,want,to,sleep,after,all,the,commotion.,,,188,sleep,10
+All of us knew that Eric wouldn't want to sleep after all the commotion.,503,LC,All,of,us,knew,that,Eric,wouldn't,want,to,sleep,after,all,the,commotion.,,,188,sleep,10
+They didn't rent the apartment because the kitchen was too small and unimpressive.,504,HC,They,didn't,rent,the,apartment,because,the,kitchen,was,too,small,and,unimpressive.,,,,9,small,11
+They didn't buy the convertible because the engine was too small and unimpressive.,505,MC,They,didn't,buy,the,convertible,because,the,engine,was,too,small,and,unimpressive.,,,,9,small,11
+She decided not to apply because the college was too small and unimpressive.,506,LC,She,decided,not,to,apply,because,the,college,was,too,small,and,unimpressive.,,,,9,small,11
+A boa constrictor is a very dangerous type of snake in the jungle.,507,HC,A,boa,constrictor,is,a,very,dangerous,type,of,snake,in,the,jungle.,,,,163,snake,10
+He had never been bitten by that type of snake in the jungle.,508,MC,He,had,never,been,bitten,by,that,type,of,snake,in,the,jungle.,,,,163,snake,10
+My little sister had never seen that type of snake in the jungle.,509,LC,My,little,sister,had,never,seen,that,type,of,snake,in,the,jungle.,,,,163,snake,10
+Germs are spread when people cough or sneeze around other people.,510,HC,Germs,are,spread,when,people,cough,or,sneeze,around,other,people.,,,,,,130,sneeze,8
+This powder might make you itch or sneeze around other people.,511,MC,This,powder,might,make,you,itch,or,sneeze,around,other,people.,,,,,,130,sneeze,8
+People always notice when I laugh or sneeze around other people.,512,LC,People,always,notice,when,I,laugh,or,sneeze,around,other,people.,,,,,,130,sneeze,8
+"In the shower, he accidentally dropped the bar of soap yesterday afternoon.",513,HC,In,the,"shower,",he,accidentally,dropped,the,bar,of,soap,yesterday,afternoon.,,,,,138,soap,10
+The janitor decided to purchase a new brand of soap yesterday afternoon.,514,MC,The,janitor,decided,to,purchase,a,new,brand,of,soap,yesterday,afternoon.,,,,,138,soap,10
+He forgot to stock up on that type of soap yesterday afternoon.,515,LC,He,forgot,to,stock,up,on,that,type,of,soap,yesterday,afternoon.,,,,,138,soap,10
+The kids had lots of cavities because they drank soda all the time.,516,HC,The,kids,had,lots,of,cavities,because,they,drank,soda,all,the,time.,,,,192,soda,10
+"They were out of lemonade, so instead they drank soda all the time.",517,MC,They,were,out,of,"lemonade,",so,instead,they,drank,soda,all,the,time.,,,,192,soda,10
+"The hotel didn't have coffee, so instead they drank soda all the time.",518,LC,The,hotel,didn't,have,"coffee,",so,instead,they,drank,soda,all,the,time.,,,,192,soda,10
+She puckered her lips because the lemon was too sour and tangy.,519,HC,She,puckered,her,lips,because,the,lemon,was,too,sour,and,tangy.,,,,,216,sour,10
+She spat out the fruit because it was too sour and tangy.,520,MC,She,spat,out,the,fruit,because,it,was,too,sour,and,tangy.,,,,,216,sour,10
+She threw away her meal because it was too sour and tangy.,521,LC,She,threw,away,her,meal,because,it,was,too,sour,and,tangy.,,,,,216,sour,10
+Lines of longitude go from the north to the south I think.,522,HC,Lines,of,longitude,go,from,the,north,to,the,south,I,think.,,,,,50,south,10
+The arrow on the compass was pointing to the south I think.,523,MC,The,arrow,on,the,compass,was,pointing,to,the,south,I,think.,,,,,50,south,10
+"On their long vacation, the family traveled to the south I think.",524,LC,On,their,long,"vacation,",the,family,traveled,to,the,south,I,think.,,,,,50,south,10
+The politician stood at the podium and gave a long speech about slavery.,525,HC,The,politician,stood,at,the,podium,and,gave,a,long,speech,about,slavery.,,,,17,speech,11
+Hamilton didn't have the patience to sit through the long speech about slavery.,526,MC,Hamilton,didn't,have,the,patience,to,sit,through,the,long,speech,about,slavery.,,,,17,speech,11
+Hamilton and his coworkers were chatting together after the long speech about slavery.,527,LC,Hamilton,and,his,coworkers,were,chatting,together,after,the,long,speech,about,slavery.,,,,17,speech,11
+Merlin needed his magic wand to cast the spell for some reason.,528,HC,Merlin,needed,his,magic,wand,to,cast,the,spell,for,some,reason.,,,,,186,spell,9
+The students at Hogwarts had trouble understanding the spell for some reason.,529,MC,The,students,at,Hogwarts,had,trouble,understanding,the,spell,for,some,reason.,,,,,186,spell,9
+The princess could not be awakened by the spell for some reason.,530,LC,The,princess,could,not,be,awakened,by,the,spell,for,some,reason.,,,,,186,spell,9
+The web had been spun by the large spider on our porch.,531,HC,The,web,had,been,spun,by,the,large,spider,on,our,porch.,,,,,64,spider,9
+My older brother refused to touch the large spider on our porch.,532,MC,My,older,brother,refused,to,touch,the,large,spider,on,our,porch.,,,,,64,spider,9
+My husband was trying to catch the large spider on our porch.,533,LC,My,husband,was,trying,to,catch,the,large,spider,on,our,porch.,,,,,64,spider,9
+"After the meal, she ate her sundae with a small metal spoon with a long handle.",534,HC,After,the,"meal,",she,ate,her,sundae,with,a,small,metal,spoon,with,a,long,handle.,139,spoon,12
+Mike was searching around in the kitchen for a small metal spoon with a long handle.,535,MC,Mike,was,searching,around,in,the,kitchen,for,a,small,metal,spoon,with,a,long,handle.,139,spoon,12
+At the flea market in Sacramento he bought a small metal spoon with a long handle.,536,LC,At,the,flea,market,in,Sacramento,he,bought,a,small,metal,spoon,with,a,long,handle.,139,spoon,12
+The creature was either an octopus or a giant squid with long tentacles.,537,HC,The,creature,was,either,an,octopus,or,a,giant,squid,with,long,tentacles.,,,,134,squid,10
+The group of scientists was attacked by a giant squid with long tentacles.,538,MC,The,group,of,scientists,was,attacked,by,a,giant,squid,with,long,tentacles.,,,,134,squid,10
+The museum display had some pictures of a giant squid with long tentacles.,539,LC,The,museum,display,had,some,pictures,of,a,giant,squid,with,long,tentacles.,,,,134,squid,10
+"The audience shouted ""boo!"" until the actor walked off the stage all by himself.",540,HC,The,audience,shouted,"""boo!""",until,the,actor,walked,off,the,stage,all,by,himself.,,,109,stage,11
+The technician had to adjust all the lights above the stage all by himself.,541,MC,The,technician,had,to,adjust,all,the,lights,above,the,stage,all,by,himself.,,,109,stage,11
+"When we walked inside, we all saw Johnathan on the stage all by himself.",542,LC,When,we,walked,"inside,",we,all,saw,Johnathan,on,the,stage,all,by,himself.,,,109,stage,11
+Even the professional dry cleaner wasn't able to remove the stain on his jacket.,543,HC,Even,the,professional,dry,cleaner,wasn't,able,to,remove,the,stain,on,his,jacket.,,,116,stain,11
+My roommate needed some advice on how to remove the stain on his jacket.,544,MC,My,roommate,needed,some,advice,on,how,to,remove,the,stain,on,his,jacket.,,,116,stain,11
+"During the wedding reception, all of the guests noticed the stain on his jacket.",545,LC,During,the,wedding,"reception,",all,of,the,guests,noticed,the,stain,on,his,jacket.,,,116,stain,11
+The hopeful girl wished upon a star up in the sky.,546,HC,The,hopeful,girl,wished,upon,a,star,up,in,the,sky.,,,,,,220,star,7
+The sticker was shaped like a star up in the sky.,547,MC,The,sticker,was,shaped,like,a,star,up,in,the,sky.,,,,,,220,star,7
+"On the canvas, Andrew drew a star up in the sky.",548,LC,On,the,"canvas,",Andrew,drew,a,star,up,in,the,sky.,,,,,,220,star,7
+"At the bar, the man sat on a stool in the corner.",549,HC,At,the,"bar,",the,man,sat,on,a,stool,in,the,corner.,,,,,164,stool,9
+"During timeout, Suzie had to sit on a stool in the corner.",550,MC,During,"timeout,",Suzie,had,to,sit,on,a,stool,in,the,corner.,,,,,164,stool,9
+"To paint the ceiling, the decorator needed a stool in the corner.",551,LC,To,paint,the,"ceiling,",the,decorator,needed,a,stool,in,the,corner.,,,,,164,stool,9
+The hot pan was bubbling on the stove in the kitchen.,552,HC,The,hot,pan,was,bubbling,on,the,stove,in,the,kitchen.,,,,,,27,stove,8
+The children weren't supposed to touch the stove in the kitchen.,553,MC,The,children,weren't,supposed,to,touch,the,stove,in,the,kitchen.,,,,,,27,stove,8
+Jan wasn't able to turn on the stove in the kitchen.,554,LC,Jan,wasn't,able,to,turn,on,the,stove,in,the,kitchen.,,,,,,27,stove,8
+It's easy to spot a zebra because of its stripes and markings.,555,HC,It's,easy,to,spot,a,zebra,because,of,its,stripes,and,markings.,,,,,187,stripes,10
+It's easy to recognize a bumblebee because of its stripes and markings.,556,MC,It's,easy,to,recognize,a,bumblebee,because,of,its,stripes,and,markings.,,,,,187,stripes,10
+It's easy to recognize a piranha because of its stripes and markings.,557,LC,It's,easy,to,recognize,a,piranha,because,of,its,stripes,and,markings.,,,,,187,stripes,10
+"After cutting down the tree, all that was left was a stump beside the fence.",558,HC,After,cutting,down,the,"tree,",all,that,was,left,was,a,stump,beside,the,fence.,,7,stump,12
+"They had to hire the landscapers, to help them remove a stump beside the fence.",559,MC,They,had,to,hire,the,"landscapers,",to,help,them,remove,a,stump,beside,the,fence.,,7,stump,12
+"Behind the storage shed, there were some dead branches and a stump beside the fence.",560,LC,Behind,the,storage,"shed,",there,were,some,dead,branches,and,a,stump,beside,the,fence.,,7,stump,12
+"To make the cake sweet, he added some more sugar and cinnamon.",561,HC,To,make,the,cake,"sweet,",he,added,some,more,sugar,and,cinnamon.,,,,,199,sugar,10
+My wife didn't notice that I added some more sugar and cinnamon.,562,MC,My,wife,didn't,notice,that,I,added,some,more,sugar,and,cinnamon.,,,,,199,sugar,10
+I reminded my wife that we needed some more sugar and cinnamon.,563,LC,I,reminded,my,wife,that,we,needed,some,more,sugar,and,cinnamon.,,,,,199,sugar,10
+"To look good at the funeral, he needed to buy a suit at Kohl's.",564,HC,To,look,good,at,the,"funeral,",he,needed,to,buy,a,suit,at,Kohl's.,,,120,suit,12
+"He had a big date, and he needed to buy a suit at Kohl's.",565,MC,He,had,a,big,"date,",and,he,needed,to,buy,a,suit,at,Kohl's.,,,120,suit,12
+"Because he's visiting his grandma soon, he needed to buy a suit at Kohl's.",566,LC,Because,he's,visiting,his,grandma,"soon,",he,needed,to,buy,a,suit,at,Kohl's.,,,120,suit,12
+At two o'clock the British family always has crumpets and tea on the back porch.,567,HC,At,two,o'clock,the,British,family,always,has,crumpets,and,tea,on,the,back,porch.,,204,tea,11
+"At the breakfast buffet, the conference was serving coffee and tea on the back porch.",568,MC,At,the,breakfast,"buffet,",the,conference,was,serving,coffee,and,tea,on,the,back,porch.,,204,tea,11
+When their mother was home they could have brownies and tea on the back porch.,569,LC,When,their,mother,was,home,they,could,have,brownies,and,tea,on,the,back,porch.,,204,tea,11
+The dentist was teaching Emma how to clean her teeth before bedtime.,570,HC,The,dentist,was,teaching,Emma,how,to,clean,her,teeth,before,bedtime.,,,,,80,teeth,10
+Our mother told my sister to always clean her teeth before bedtime.,571,MC,Our,mother,told,my,sister,to,always,clean,her,teeth,before,bedtime.,,,,,80,teeth,10
+The nanny reminded my sister to look after her teeth before bedtime.,572,LC,The,nanny,reminded,my,sister,to,look,after,her,teeth,before,bedtime.,,,,,80,teeth,10
+Everett lit the campfire while I pitched the tent near the woods.,573,HC,Everett,lit,the,campfire,while,I,pitched,the,tent,near,the,woods.,,,,,155,tent,9
+The kids at summer camp slept in the tent near the woods.,574,MC,The,kids,at,summer,camp,slept,in,the,tent,near,the,woods.,,,,,155,tent,9
+Everett's dad asked if he could move the tent near the woods.,575,LC,Everett's,dad,asked,if,he,could,move,the,tent,near,the,woods.,,,,,155,tent,9
+The pill I just swallowed is stuck in my throat which is uncomfortable.,576,HC,The,pill,I,just,swallowed,is,stuck,in,my,throat,which,is,uncomfortable.,,,,88,throat,10
+The doctor said I have something stuck in my throat which is uncomfortable.,577,MC,The,doctor,said,I,have,something,stuck,in,my,throat,which,is,uncomfortable.,,,,88,throat,10
+The doctor isn't able to do anything about my throat which is uncomfortable.,578,LC,The,doctor,isn't,able,to,do,anything,about,my,throat,which,is,uncomfortable.,,,,88,throat,10
+He made a dentist appointment to extract his broken tooth that was infected.,579,HC,He,made,a,dentist,appointment,to,extract,his,broken,tooth,that,was,infected.,,,,82,tooth,10
+He had difficulty speaking because he had a broken tooth that was infected.,580,MC,He,had,difficulty,speaking,because,he,had,a,broken,tooth,that,was,infected.,,,,82,tooth,10
+"After some discussion, they decided to remove the broken tooth that was infected.",581,LC,After,some,"discussion,",they,decided,to,remove,the,broken,tooth,that,was,infected.,,,,82,tooth,10
+The tiny maple sapling has grown into a large tree in the front yard.,582,HC,The,tiny,maple,sapling,has,grown,into,a,large,tree,in,the,front,yard.,,,71,tree,10
+The bicycle was swerving and crashed into a large tree in the front yard.,583,MC,The,bicycle,was,swerving,and,crashed,into,a,large,tree,in,the,front,yard.,,,71,tree,10
+Joan and her decorator decided to add a large tree in the front yard.,584,LC,Joan,and,her,decorator,decided,to,add,a,large,tree,in,the,front,yard.,,,71,tree,10
+Ben unloaded the bags of cement from the back of the truck in the garage.,585,HC,Ben,unloaded,the,bags,of,cement,from,the,back,of,the,truck,in,the,garage.,,41,truck,12
+The fugitive hid from the police in the back of the truck in the garage.,586,MC,The,fugitive,hid,from,the,police,in,the,back,of,the,truck,in,the,garage.,,41,truck,12
+Ben was being so violent that he tried to smash the truck in the garage.,587,LC,Ben,was,being,so,violent,that,he,tried,to,smash,the,truck,in,the,garage.,,41,truck,12
+"There's no need to lie, you can tell me the truth about Sarah.",588,HC,There's,no,need,to,"lie,",you,can,tell,me,the,truth,about,Sarah.,,,,19,truth,11
+My friend at the office refused to tell me the truth about Sarah.,589,MC,My,friend,at,the,office,refused,to,tell,me,the,truth,about,Sarah.,,,,19,truth,11
+The police officer was unsure if he could find the truth about Sarah.,590,LC,The,police,officer,was,unsure,if,he,could,find,the,truth,about,Sarah.,,,,19,truth,11
+Elephants are often hunted for the ivory in their tusks before nightfall.,591,HC,Elephants,are,often,hunted,for,the,ivory,in,their,tusks,before,nightfall.,,,,,118,tusks,10
+"After catching the animals, the poachers cut off their tusks before nightfall.",592,MC,After,catching,the,"animals,",the,poachers,cut,off,their,tusks,before,nightfall.,,,,,118,tusks,10
+The smugglers could not find a buyer for their tusks before nightfall.,593,LC,The,smugglers,could,not,find,a,buyer,for,their,tusks,before,nightfall.,,,,,118,tusks,10
+The city lies between two hills in a valley somewhere in Colorado.,594,HC,The,city,lies,between,two,hills,in,a,valley,somewhere,in,Colorado.,,,,,156,valley,9
+The team discovered the fertile crops in a valley somewhere in Colorado.,595,MC,The,team,discovered,the,fertile,crops,in,a,valley,somewhere,in,Colorado.,,,,,156,valley,9
+The house sits between two shops in a valley somewhere in Colorado.,596,LC,The,house,sits,between,two,shops,in,a,valley,somewhere,in,Colorado.,,,,,156,valley,9
+"At the ice cream shop, Jen asked for both chocolate and vanilla which is his favorite.",597,HC,At,the,ice,cream,"shop,",Jen,asked,for,both,chocolate,and,vanilla,which,is,his,favorite.,40,vanilla,12
+To add flavor to the frosting he added maple syrup and vanilla which is his favorite.,598,MC,To,add,flavor,to,the,frosting,he,added,maple,syrup,and,vanilla,which,is,his,favorite.,40,vanilla,12
+"He walked down to the supermarket to buy milk, flour, and vanilla which is his favorite.",599,LC,He,walked,down,to,the,supermarket,to,buy,"milk,","flour,",and,vanilla,which,is,his,favorite.,40,vanilla,12
+"To display the roses, Katie put them in an expensive vase made of porcelain.",600,HC,To,display,the,"roses,",Katie,put,them,in,an,expensive,vase,made,of,porcelain.,,,104,vase,11
+The collector of Chinese artifacts had just acquired the expensive vase made of porcelain.,601,MC,The,collector,of,Chinese,artifacts,had,just,acquired,the,expensive,vase,made,of,porcelain.,,,104,vase,11
+The young couple paid lots of money for the expensive vase made of porcelain.,602,LC,The,young,couple,paid,lots,of,money,for,the,expensive,vase,made,of,porcelain.,,,104,vase,11
+The bride covered her face with a veil made of silk.,603,HC,The,bride,covered,her,face,with,a,veil,made,of,silk.,,,,,,103,veil,8
+She wore a beautiful gown and a veil made of silk.,604,MC,She,wore,a,beautiful,gown,and,a,veil,made,of,silk.,,,,,,103,veil,8
+The seamstress sewed two sheets and a veil made of silk.,605,LC,The,seamstress,sewed,two,sheets,and,a,veil,made,of,silk.,,,,,,103,veil,8
+"Before the show, the sick opera singer suddenly lost her voice and couldn't speak.",606,HC,Before,the,"show,",the,sick,opera,singer,suddenly,lost,her,voice,and,couldn't,speak.,,,160,voice,11
+"Before the cameras started rolling, the actress suddenly lost her voice and couldn't speak.",607,MC,Before,the,cameras,started,"rolling,",the,actress,suddenly,lost,her,voice,and,couldn't,speak.,,,160,voice,11
+"Before leaving to buy groceries, my aunt suddenly lost her voice and couldn't speak.",608,LC,Before,leaving,to,buy,"groceries,",my,aunt,suddenly,lost,her,voice,and,couldn't,speak.,,,160,voice,11
+"In the election, people younger than eighteen aren't allowed to vote for some reason.",609,HC,In,the,"election,",people,younger,than,eighteen,aren't,allowed,to,vote,for,some,reason.,,,87,vote,11
+"In countries with strict religious codes, women aren't allowed to vote for some reason.",610,MC,In,countries,with,strict,religious,"codes,",women,aren't,allowed,to,vote,for,some,reason.,,,87,vote,11
+"On some campuses, many of the students don't want to vote for some reason.",611,LC,On,some,"campuses,",many,of,the,students,don't,want,to,vote,for,some,reason.,,,87,vote,11
+The bride refused to invite her father to the wedding for some reason.,612,HC,The,bride,refused,to,invite,her,father,to,the,wedding,for,some,reason.,,,,68,wedding,10
+Kathy decided not to invite her uncle to the wedding for some reason.,613,MC,Kathy,decided,not,to,invite,her,uncle,to,the,wedding,for,some,reason.,,,,68,wedding,10
+The lazy teenager didn't want to go to the wedding for some reason.,614,LC,The,lazy,teenager,didn't,want,to,go,to,the,wedding,for,some,reason.,,,,68,wedding,10
+The woman would need a raincoat to avoid getting wet out there.,615,HC,The,woman,would,need,a,raincoat,to,avoid,getting,wet,out,there.,,,,,127,wet,10
+He didn't drive home because the roads were getting wet out there.,616,MC,He,didn't,drive,home,because,the,roads,were,getting,wet,out,there.,,,,,127,wet,10
+He doesn't run very often because he hates getting wet out there.,617,LC,He,doesn't,run,very,often,because,he,hates,getting,wet,out,there.,,,,,127,wet,10
+The referee was blowing on his whistle during the soccer game.,618,HC,The,referee,was,blowing,on,his,whistle,during,the,soccer,game.,,,,,,76,whistle,7
+None of the players heard his whistle during the soccer game.,619,MC,,of,the,players,heard,his,whistle,during,the,soccer,game.,,,,,,76,whistle,7
+My brother remembered to bring his whistle during the soccer game.,620,LC,My,brother,remembered,to,bring,his,whistle,during,the,soccer,game.,,,,,,76,whistle,7
+"At the vineyard, he bought a fancy bottle of wine from France.",621,HC,At,the,"vineyard,",he,bought,a,fancy,bottle,of,wine,from,France.,,,,,60,wine,10
+The waiter forgot to bring me my glass of wine from France.,622,MC,The,waiter,forgot,to,bring,me,my,glass,of,wine,from,France.,,,,,60,wine,10
+"At the market, he bought a new type of wine from France.",623,LC,At,the,"market,",he,bought,a,new,type,of,wine,from,France.,,,,,60,wine,10
+"Then, the genie granted his third and final wish from the lamp.",624,HC,"Then,",the,genie,granted,his,third,and,final,wish,from,the,lamp.,,,,,77,wish,9
+The king remembered that he had one final wish from the lamp.,625,MC,The,king,remembered,that,he,had,one,final,wish,from,the,lamp.,,,,,77,wish,9
+The young boy had forgotten about his final wish from the lamp.,626,LC,The,young,boy,had,forgotten,about,his,final,wish,from,the,lamp.,,,,,77,wish,9
+The kids thought that the scary old woman was probably a witch after all.,627,HC,The,kids,thought,that,the,scary,old,woman,was,probably,a,witch,after,all.,,,78,witch,12
+For Halloween that year she decided to dress up as a witch after all.,628,MC,For,Halloween,that,year,she,decided,to,dress,up,as,a,witch,after,all.,,,78,witch,12
+She decided that she shouldn't write a children's story about a witch after all.,629,LC,She,decided,that,she,shouldn't,write,a,children's,story,about,a,witch,after,all.,,,78,witch,12
+At the sawmill they slice logs into long planks of wood with smooth edges.,630,HC,At,the,sawmill,they,slice,logs,into,long,planks,of,wood,with,smooth,edges.,,,179,wood,11
+"To repair the cabinet, he needed several different types of wood with smooth edges.",631,MC,To,repair,the,"cabinet,",he,needed,several,different,types,of,wood,with,smooth,edges.,,,179,wood,11
+At the ancient burial site they found weapons made of wood with smooth edges.,632,LC,At,the,ancient,burial,site,they,found,weapons,made,of,wood,with,smooth,edges.,,,179,wood,11
+Shearing the sheep produced a large amount of wool that was very warm.,633,HC,Shearing,the,sheep,produced,a,large,amount,of,wool,that,was,very,warm.,,,,129,wool,9
+The elderly shepherd sold a large amount of wool that was very warm.,634,MC,The,elderly,shepherd,sold,a,large,amount,of,wool,that,was,very,warm.,,,,129,wool,9
+The new factory produced a large amount of wool that was very warm.,635,LC,The,new,factory,produced,a,large,amount,of,wool,that,was,very,warm.,,,,129,wool,9
+The old couple sat together without speaking a single word the entire time.,636,HC,The,old,couple,sat,together,without,speaking,a,single,word,the,entire,time.,,,,115,word,10
+"Despite his best efforts, he couldn't recognize a single word the entire time.",637,MC,Despite,his,best,"efforts,",he,couldn't,recognize,a,single,word,the,entire,time.,,,,115,word,10
+"During his stay, the visitor only used a single word the entire time.",638,LC,During,his,"stay,",the,visitor,only,used,a,single,word,the,entire,time.,,,,115,word,10
+The kitten was playing with a ball of yarn at the market.,639,HC,The,kitten,was,playing,with,a,ball,of,yarn,at,the,market.,,,,,56,yarn,9
+The old woman was collecting different colors of yarn at the market.,640,MC,The,old,woman,was,collecting,different,colors,of,yarn,at,the,market.,,,,,56,yarn,9
+Emily had trouble finding the right color of yarn at the market.,641,LC,Emily,had,trouble,finding,the,right,color,of,yarn,at,the,market.,,,,,56,yarn,9
+"To record some high school memories, he had everyone sign his yearbook after graduation.",642,HC,To,record,some,high,school,"memories,",he,had,everyone,sign,his,yearbook,after,graduation.,,,170,yearbook,12
+"In high school, I wrote my boyfriend a message in his yearbook after graduation.",643,MC,In,high,"school,",I,wrote,my,boyfriend,a,message,in,his,yearbook,after,graduation.,,,170,yearbook,12
+"Apparently, because James didn't have a pen, he couldn't sign his yearbook after graduation.",644,LC,"Apparently,",because,James,didn't,have,a,"pen,",he,couldn't,sign,his,yearbook,after,graduation.,,,170,yearbook,12
+"To see the exotic animals, we took the children to the zoo in San Diego.",645,HC,To,see,the,exotic,"animals,",we,took,the,children,to,the,zoo,in,San,Diego.,,6,zoo,12
+"To see the pretty horses, we took the children to the zoo in San Diego.",646,MC,To,see,the,pretty,"horses,",we,took,the,children,to,the,zoo,in,San,Diego.,,6,zoo,12
+Jennifer asked a close friend if they could go to the zoo in San Diego.,647,LC,Jennifer,asked,a,close,friend,if,they,could,go,to,the,zoo,in,San,Diego.,,6,zoo,12
