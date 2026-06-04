@@ -1,0 +1,385 @@
+
+GPT-2 (disagree only)
+=======================
+
+PROB MODEL
+
+Family: gaussian 
+Link function: identity 
+
+Formula:
+SUM_3RT_trimmed ~ 1 + s(gpt2prob, bs = "cs") + s(SUB, bs = "re") + 
+    s(ITEM, bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1112.20      16.19    68.7   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+                edf Ref.df      F p-value    
+s(gpt2prob)   2.269      9 146.26  <2e-16 ***
+s(SUB)      979.294    988 112.49  <2e-16 ***
+s(ITEM)      72.054     74  37.33  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.606   Deviance explained = 61.1%
+fREML = 5.4403e+05  Scale est. = 1.2855e+05  n = 74175
+
+SURP MODEL
+
+Family: gaussian 
+Link function: identity 
+
+Formula:
+SUM_3RT_trimmed ~ 1 + s(gpt2, bs = "cs") + s(SUB, bs = "re") + 
+    s(ITEM, bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   1112.2       16.2   68.64   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+            edf Ref.df      F p-value    
+s(gpt2)   3.527      9 469.76  <2e-16 ***
+s(SUB)  979.299    988 112.55  <2e-16 ***
+s(ITEM)  72.014     74  37.17  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.606   Deviance explained = 61.2%
+fREML = 5.4401e+05  Scale est. = 1.2849e+05  n = 74175
+
+GPT-Neo (disagree only)
+=========================
+
+PROB MODEL
+
+Family: gaussian 
+Link function: identity 
+
+Formula:
+SUM_3RT_trimmed ~ 1 + s(gptneoprob, bs = "cs") + s(SUB, bs = "re") + 
+    s(ITEM, bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1108.00      19.47   56.91   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+                  edf Ref.df      F p-value    
+s(gptneoprob)   2.478      9 169.70  <2e-16 ***
+s(SUB)        972.659    988  63.41  <2e-16 ***
+s(ITEM)        42.298     43  61.08  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =    0.6   Deviance explained = 60.9%
+fREML = 3.2022e+05  Scale est. = 1.307e+05  n = 43516
+
+SURP MODEL
+
+Family: gaussian 
+Link function: identity 
+
+Formula:
+SUM_3RT_trimmed ~ 1 + s(gptneo, bs = "cs") + s(SUB, bs = "re") + 
+    s(ITEM, bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1108.02      19.43   57.03   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+              edf Ref.df      F p-value    
+s(gptneo)   3.019      9 172.31  <2e-16 ***
+s(SUB)    972.657    988  63.40  <2e-16 ***
+s(ITEM)    42.286     43  60.76  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =    0.6   Deviance explained = 60.9%
+fREML = 3.2022e+05  Scale est. = 1.3071e+05  n = 43516
+
+GPT-NeoX (disagree only)
+==========================
+
+PROB MODEL
+
+Family: gaussian 
+Link function: identity 
+
+Formula:
+SUM_3RT_trimmed ~ 1 + s(gptneoxprob, bs = "cs") + s(SUB, bs = "re") + 
+    s(ITEM, bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1084.71      20.25   53.58   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+                   edf Ref.df     F p-value    
+s(gptneoxprob)   2.108      9 77.00  <2e-16 ***
+s(SUB)         967.222    988 46.55  <2e-16 ***
+s(ITEM)         30.491     31 61.02  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.602   Deviance explained = 61.5%
+fREML = 2.3183e+05  Scale est. = 1.1915e+05  n = 31648
+
+SURP MODEL
+
+Family: gaussian 
+Link function: identity 
+
+Formula:
+SUM_3RT_trimmed ~ 1 + s(gptneox, bs = "cs") + s(SUB, bs = "re") + 
+    s(ITEM, bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1084.77      20.16   53.82   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+               edf Ref.df     F p-value    
+s(gptneox)   2.641      9 98.24  <2e-16 ***
+s(SUB)     967.223    988 46.56  <2e-16 ***
+s(ITEM)     30.477     31 59.40  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.602   Deviance explained = 61.5%
+fREML = 2.3183e+05  Scale est. = 1.1914e+05  n = 31648
+
+GPT-J (disagree only)
+=======================
+
+PROB MODEL
+
+Family: gaussian 
+Link function: identity 
+
+Formula:
+SUM_3RT_trimmed ~ 1 + s(gptjprob, bs = "cs") + s(SUB, bs = "re") + 
+    s(ITEM, bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1095.45      21.46   51.06   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+               edf Ref.df      F p-value    
+s(gptjprob)   3.10      9 156.58  <2e-16 ***
+s(SUB)      970.34    988  54.95  <2e-16 ***
+s(ITEM)      36.53     37  79.75  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.604   Deviance explained = 61.5%
+fREML = 2.762e+05  Scale est. = 1.2683e+05  n = 37582
+
+SURP MODEL
+
+Family: gaussian 
+Link function: identity 
+
+Formula:
+SUM_3RT_trimmed ~ 1 + s(gptj, bs = "cs") + s(SUB, bs = "re") + 
+    s(ITEM, bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1095.34      21.19   51.69   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+            edf Ref.df      F p-value    
+s(gptj)   4.035      9 361.36  <2e-16 ***
+s(SUB)  970.344    988  54.96  <2e-16 ***
+s(ITEM)  36.490     37  75.24  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.604   Deviance explained = 61.5%
+fREML = 2.762e+05  Scale est. = 1.268e+05  n = 37582
+
+GPT-2XL (disagree only)
+=========================
+
+PROB MODEL
+
+Family: gaussian 
+Link function: identity 
+
+Formula:
+SUM_3RT_trimmed ~ 1 + s(gpt2xlprob, bs = "cs") + s(SUB, bs = "re") + 
+    s(ITEM, bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1107.70      17.77   62.35   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+                  edf Ref.df      F p-value    
+s(gpt2xlprob)   2.335      9 107.12  <2e-16 ***
+s(SUB)        975.970    988  81.13  <2e-16 ***
+s(ITEM)        54.972     56  54.18  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.596   Deviance explained = 60.4%
+fREML = 4.1424e+05  Scale est. = 1.3027e+05  n = 56373
+
+SURP MODEL
+
+Family: gaussian 
+Link function: identity 
+
+Formula:
+SUM_3RT_trimmed ~ 1 + s(gpt2xl, bs = "cs") + s(SUB, bs = "re") + 
+    s(ITEM, bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1107.61      17.67   62.69   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+              edf Ref.df      F p-value    
+s(gpt2xl)   3.096      9 139.51  <2e-16 ***
+s(SUB)    975.970    988  81.13  <2e-16 ***
+s(ITEM)    54.931     56  51.88  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.596   Deviance explained = 60.4%
+fREML = 4.1424e+05  Scale est. = 1.3027e+05  n = 56373
+
+OLMO-2 (disagree only)
+========================
+
+PROB MODEL
+
+Family: gaussian 
+Link function: identity 
+
+Formula:
+SUM_3RT_trimmed ~ 1 + s(olmoprob, bs = "cs") + s(SUB, bs = "re") + 
+    s(ITEM, bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1095.69      22.01   49.79   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+                edf Ref.df     F  p-value    
+s(olmoprob)   2.132      9 39.35 3.19e-05 ***
+s(SUB)      964.033    988 40.23  < 2e-16 ***
+s(ITEM)      26.572     27 63.20  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =    0.6   Deviance explained = 61.4%
+fREML = 2.0397e+05  Scale est. = 1.2763e+05  n = 27692
+
+SURP MODEL
+
+Family: gaussian 
+Link function: identity 
+
+Formula:
+SUM_3RT_trimmed ~ 1 + s(olmo, bs = "cs") + s(SUB, bs = "re") + 
+    s(ITEM, bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1095.64      22.03   49.73   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+            edf Ref.df     F  p-value    
+s(olmo)   2.636      9 51.47 0.000872 ***
+s(SUB)  964.031    988 40.22  < 2e-16 ***
+s(ITEM)  26.563     27 63.56  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =    0.6   Deviance explained = 61.4%
+fREML = 2.0397e+05  Scale est. = 1.2764e+05  n = 27692
+
+LLaMA-2 (disagree only)
+=========================
+
+PROB MODEL
+
+Family: gaussian 
+Link function: identity 
+
+Formula:
+SUM_3RT_trimmed ~ 1 + s(llama2prob, bs = "cs") + s(SUB, bs = "re") + 
+    s(ITEM, bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1075.07      23.22   46.29   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+                  edf Ref.df     F p-value    
+s(llama2prob)   2.153      9 30.80 0.00165 ** 
+s(SUB)        965.099    988 42.14 < 2e-16 ***
+s(ITEM)        27.668     28 85.15 < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.606   Deviance explained = 61.9%
+fREML = 2.1036e+05  Scale est. = 1.2021e+05  n = 28681
+
+SURP MODEL
+
+Family: gaussian 
+Link function: identity 
+
+Formula:
+SUM_3RT_trimmed ~ 1 + s(llama2, bs = "cs") + s(SUB, bs = "re") + 
+    s(ITEM, bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1075.06      23.13   46.48   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+              edf Ref.df     F  p-value    
+s(llama2)   1.552      9 35.88 2.46e-06 ***
+s(SUB)    965.101    988 42.15  < 2e-16 ***
+s(ITEM)    27.668     28 82.74  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.606   Deviance explained = 61.9%
+fREML = 2.1036e+05  Scale est. = 1.2021e+05  n = 28681
