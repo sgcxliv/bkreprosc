@@ -11,7 +11,7 @@ if (length(args) >= 1 && nzchar(args[1])) {
   setwd(args[1])
 } else {
   # Default to local project dir used in this workspace.
-  setwd("~/Desktop/fuck")
+  setwd("~/Desktop/here")
 }
 
 cat("Working directory:", getwd(), "\n")
